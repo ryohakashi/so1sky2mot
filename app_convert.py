@@ -98,7 +98,7 @@ df_export = pd.DataFrame.from_records(list_template)
 
 df_export
 
-df_export.to_csv('./outbox/test.txt', sep="\t", index=False)
+df_export.to_csv('./outbox/test.txt', sep="|", index=False)
 
 # %%
 
