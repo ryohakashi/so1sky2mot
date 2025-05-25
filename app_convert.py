@@ -6,7 +6,7 @@ df_so1sky = listdf_so1sky[0].ffill()
 df_so1sky
 
 # %%
-df_template = pd.read_table('./template/exportmotasates.txt')
+df_template = pd.read_table('./template/template_ND6.txt')
 df_template
 
 list_template = df_template.to_dict('records')
