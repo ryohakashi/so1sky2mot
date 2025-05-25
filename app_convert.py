@@ -6,7 +6,8 @@ df_so1sky = listdf_so1sky[0].ffill()
 df_so1sky
 
 # %%
-df_template = pd.read_table('./template/exportmotasates.txt')
+df_template = pd.read_table('./template/template_ND6.txt')
+
 df_template
 
 list_template = df_template.to_dict('records')
@@ -98,7 +99,8 @@ df_export = pd.DataFrame.from_records(list_template)
 
 df_export
 
-df_export.to_csv('./outbox/test.txt', sep="\t", index=False)
+df_export.to_csv('./outbox/test.txt', sep="|", index=False)
+
 
 # %%
 
