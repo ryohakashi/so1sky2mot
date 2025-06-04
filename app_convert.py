@@ -3,6 +3,8 @@ import pandas as pd
 
 listdf_so1sky = pd.read_html('./inbox/1840017534_sales_order-20250516.xls', skiprows=4, header=0)
 df_so1sky = listdf_so1sky[0].ffill()
+df_so1sky["TANGGAL"] = pd.to_datetime(df_so1sky["TANGGAL"])
+print(df_so1sky["TANGGAL"].dtypes)
 df_so1sky
 
 # %%
@@ -44,10 +46,10 @@ for index, row in df_so1sky.iterrows():
                     "SalesmanId": row["SALESMAN ID"],
                     # "SalesOrderNumber": row["ORDER ID"].replace("'", ""),
                     "SalesOrderNumber": row["ORDER ID"],
-                    "SalesOrderDate": row["TANGGAL"].replace("-", "/"),
+                    "SalesOrderDate": row["TANGGAL"],
                     # "InvoiceNumber": row["NOMOR"].replace("'", ""),
                     "InvoiceNumber": row["ORDER ID"],
-                    "InvoiceDate": row["TANGGAL"].replace("-", "/"),
+                    "InvoiceDate": row["TANGGAL"],
                     "Term": 0,
                     "SoldToCustomerId": row["CUST ID"].replace(json01['singkatan'], ""),
                     "SentToCustomerId": row["CUST ID"].replace(json01['singkatan'], ""),
