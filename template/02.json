@@ -1114,7 +1114,7 @@
   "nama": "CCK AP 1L K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 705001,
+  "kodedist": "0705001",
   "Column6": "CCKAP1LTR",
   "Column7": "CCKAP1LTR",
   "Column8": ""
@@ -1124,7 +1124,7 @@
   "nama": "CCK AP 1L K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 705001,
+  "kodedist": "0705001",
   "Column6": "CCKAP1LTR",
   "Column7": "CCKAP1LTR",
   "Column8": ""
@@ -1134,7 +1134,7 @@
   "nama": "CCK AP 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 704001,
+  "kodedist": "0704001",
   "Column6": "CCKAP250",
   "Column7": "CCKAP250",
   "Column8": ""
@@ -1144,7 +1144,7 @@
   "nama": "CCK AP 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 704001,
+  "kodedist": "0704001",
   "Column6": "CCKAP250",
   "Column7": "CCKAP250",
   "Column8": ""
@@ -1154,7 +1154,7 @@
   "nama": "CCK GD 250ML FIT FRESH K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 704005,
+  "kodedist": "0704005",
   "Column6": "CCKGD250",
   "Column7": "CCKGD250",
   "Column8": ""
@@ -1164,7 +1164,7 @@
   "nama": "CCK GD 250ML FIT FRESH K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 704005,
+  "kodedist": "0704005",
   "Column6": "CCKGD250",
   "Column7": "CCKGD250",
   "Column8": ""
@@ -1174,7 +1174,7 @@
   "nama": "CCK GV 1L K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 705003,
+  "kodedist": "0705003",
   "Column6": "CCKGV1LTR",
   "Column7": "CCKGV1LTR",
   "Column8": ""
@@ -1184,7 +1184,7 @@
   "nama": "CCK GV 1L K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 705003,
+  "kodedist": "0705003",
   "Column6": "CCKGV1LTR",
   "Column7": "CCKGV1LTR",
   "Column8": ""
@@ -1194,7 +1194,7 @@
   "nama": "CCK GV 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 704003,
+  "kodedist": "0704003",
   "Column6": "CCKGV250",
   "Column7": "CCKGV250",
   "Column8": ""
@@ -1204,7 +1204,7 @@
   "nama": "CCK GV 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 704003,
+  "kodedist": "0704003",
   "Column6": "CCKGV250",
   "Column7": "CCKGV250",
   "Column8": ""
@@ -1214,7 +1214,7 @@
   "nama": "CCK MN 1L K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 705002,
+  "kodedist": "0705002",
   "Column6": "CCKMN1LTR",
   "Column7": "CCKMN1LTR",
   "Column8": ""
@@ -1224,7 +1224,7 @@
   "nama": "CCK MN 1L K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 705002,
+  "kodedist": "0705002",
   "Column6": "CCKMN1LTR",
   "Column7": "CCKMN1LTR",
   "Column8": ""
@@ -1234,7 +1234,7 @@
   "nama": "CCK MN 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 704002,
+  "kodedist": "0704002",
   "Column6": "CCKMN250",
   "Column7": "CCKMN250",
   "Column8": ""
@@ -1244,7 +1244,7 @@
   "nama": "CCK MN 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 704002,
+  "kodedist": "0704002",
   "Column6": "CCKMN250",
   "Column7": "CCKMN250",
   "Column8": ""
@@ -1254,7 +1254,7 @@
   "nama": "CCK OE 250ML FIT FRESH K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 704006,
+  "kodedist": "0704006",
   "Column6": "CCKOE250",
   "Column7": "CCKOE250",
   "Column8": ""
@@ -1264,7 +1264,7 @@
   "nama": "CCK OE 250ML FIT FRESH K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 704006,
+  "kodedist": "0704006",
   "Column6": "CCKOE250",
   "Column7": "CCKOE250",
   "Column8": ""
@@ -1274,7 +1274,7 @@
   "nama": "CCK OR 1L K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 705004,
+  "kodedist": "0705004",
   "Column6": "CCKOR1LTR",
   "Column7": "CCKOR1LTR",
   "Column8": ""
@@ -1284,7 +1284,7 @@
   "nama": "CCK OR 1L K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 705004,
+  "kodedist": "0705004",
   "Column6": "CCKOR1LTR",
   "Column7": "CCKOR1LTR",
   "Column8": ""
@@ -1294,7 +1294,7 @@
   "nama": "CCK OR 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 704004,
+  "kodedist": "0704004",
   "Column6": "CCKOR250",
   "Column7": "CCKOR250",
   "Column8": ""
@@ -1304,7 +1304,7 @@
   "nama": "CCK OR 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 704004,
+  "kodedist": "0704004",
   "Column6": "CCKOR250",
   "Column7": "CCKOR250",
   "Column8": ""
@@ -1314,7 +1314,7 @@
   "nama": "CCK PG 250ML FIT FRESH K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 704007,
+  "kodedist": "0704007",
   "Column6": "CCKPG250",
   "Column7": "CCKPG250",
   "Column8": ""
@@ -1324,7 +1324,7 @@
   "nama": "CCK PG 250ML FIT FRESH K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 704007,
+  "kodedist": "0704007",
   "Column6": "CCKPG250",
   "Column7": "CCKPG250",
   "Column8": ""
@@ -1544,7 +1544,7 @@
   "nama": "FTB AP 235 ML",
   "satuan": "KRAT",
   "isi": 24,
-  "kodedist": 715001,
+  "kodedist": "0715001",
   "Column6": "FTBAP",
   "Column7": "FTBAP",
   "Column8": ""
@@ -1554,7 +1554,7 @@
   "nama": "FTB AP 235 ML - BTL",
   "satuan": "BTL",
   "isi": 1,
-  "kodedist": 715001,
+  "kodedist": "0715001",
   "Column6": "FTBAP",
   "Column7": "FTBAP",
   "Column8": ""
@@ -1564,7 +1564,7 @@
   "nama": "FTB BC 235 ML",
   "satuan": "KRAT",
   "isi": 24,
-  "kodedist": 715002,
+  "kodedist": "0715002",
   "Column6": "FTBBC",
   "Column7": "FTBBC",
   "Column8": ""
@@ -1574,7 +1574,7 @@
   "nama": "FTB BC 235 ML - BTL",
   "satuan": "BTL",
   "isi": 1,
-  "kodedist": 715002,
+  "kodedist": "0715002",
   "Column6": "FTBBC",
   "Column7": "FTBBC",
   "Column8": ""
@@ -1584,7 +1584,7 @@
   "nama": "FTC AP 318 ML K20",
   "satuan": "KARTON",
   "isi": 20,
-  "kodedist": 707001,
+  "kodedist": "0707001",
   "Column6": "FTCAP",
   "Column7": "FTCAP",
   "Column8": ""
@@ -1594,7 +1594,7 @@
   "nama": "FTC AP 318 ML K20 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 707001,
+  "kodedist": "0707001",
   "Column6": "FTCAP",
   "Column7": "FTCAP",
   "Column8": ""
@@ -1604,7 +1604,7 @@
   "nama": "FTC AP 318 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 707001,
+  "kodedist": "0707001",
   "Column6": "FTCAP",
   "Column7": "FTCAP",
   "Column8": ""
@@ -1614,7 +1614,7 @@
   "nama": "FTC AP 318 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 707001,
+  "kodedist": "0707001",
   "Column6": "FTCAP",
   "Column7": "FTCAP",
   "Column8": ""
@@ -1624,7 +1624,7 @@
   "nama": "FTC AP 318 ML PROGRAM K20",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 707008,
+  "kodedist": "0707008",
   "Column6": "FTCAPK20",
   "Column7": "FTCAPK20",
   "Column8": ""
@@ -1644,7 +1644,7 @@
   "nama": "FTC BC 318 ML K20",
   "satuan": "KARTON",
   "isi": 20,
-  "kodedist": 707002,
+  "kodedist": "0707002",
   "Column6": "FTCBC",
   "Column7": "FTCBC",
   "Column8": ""
@@ -1654,7 +1654,7 @@
   "nama": "FTC BC 318 ML K20 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 707002,
+  "kodedist": "0707002",
   "Column6": "FTCBC",
   "Column7": "FTCBC",
   "Column8": ""
@@ -1664,7 +1664,7 @@
   "nama": "FTC BC 318 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 707002,
+  "kodedist": "0707002",
   "Column6": "FTCBC",
   "Column7": "FTCBC",
   "Column8": ""
@@ -1674,7 +1674,7 @@
   "nama": "FTC BC 318 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 707002,
+  "kodedist": "0707002",
   "Column6": "FTCBC",
   "Column7": "FTCBC",
   "Column8": ""
@@ -1684,7 +1684,7 @@
   "nama": "FTC BC 318 ML PROGRAM K20",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 707009,
+  "kodedist": "0707009",
   "Column6": "FTCBCK20",
   "Column7": "FTCBCK20",
   "Column8": ""
@@ -1704,7 +1704,7 @@
   "nama": "FTE AP 350 ML K12 SHRINK",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708002,
+  "kodedist": "0708002",
   "Column6": "FTEAP350-12",
   "Column7": "FTEAP350-12",
   "Column8": ""
@@ -1714,7 +1714,7 @@
   "nama": "FTE AP 350 ML K12 SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708002,
+  "kodedist": "0708002",
   "Column6": "FTEAP350-12",
   "Column7": "FTEAP350-12",
   "Column8": ""
@@ -1724,7 +1724,7 @@
   "nama": "FTE AP 500 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 711001,
+  "kodedist": "0711001",
   "Column6": "FTEAP500-24",
   "Column7": "FTEAP500-24",
   "Column8": ""
@@ -1734,7 +1734,7 @@
   "nama": "FTE AP 500 ML K24 - BTL",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 711001,
+  "kodedist": "0711001",
   "Column6": "FTEAP500-24",
   "Column7": "FTEAP500-24",
   "Column8": ""
@@ -1744,7 +1744,7 @@
   "nama": "FTE BC 350 ML K12 SHRINK",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708005,
+  "kodedist": "0708005",
   "Column6": "FTEBC350-12",
   "Column7": "FTEBC350-12",
   "Column8": ""
@@ -1754,7 +1754,7 @@
   "nama": "FTE BC 350 ML K12 SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708005,
+  "kodedist": "0708005",
   "Column6": "FTEBC350-12",
   "Column7": "FTEBC350-12",
   "Column8": ""
@@ -1764,7 +1764,7 @@
   "nama": "FTE BC 500 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 711004,
+  "kodedist": "0711004",
   "Column6": "FTEBC500-24",
   "Column7": "FTEBC500-24",
   "Column8": ""
@@ -1774,7 +1774,7 @@
   "nama": "FTE BC 500 ML K24 - BTL",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 711004,
+  "kodedist": "0711004",
   "Column6": "FTEBC500-24",
   "Column7": "FTEBC500-24",
   "Column8": ""
@@ -1784,7 +1784,7 @@
   "nama": "FTE BCC 500 ML K12",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 719003,
+  "kodedist": "0719003",
   "Column6": "FTE 500 BCC",
   "Column7": "FTE 500 BCC",
   "Column8": ""
@@ -1794,7 +1794,7 @@
   "nama": "FTE BCC 500 ML K12 - PCS",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 719003,
+  "kodedist": "0719003",
   "Column6": "FTE 500 BCC",
   "Column7": "FTE 500 BCC",
   "Column8": ""
@@ -1804,7 +1804,7 @@
   "nama": "FTE BW 350 ML K12 - SHRINK",
   "satuan": "SHR",
   "isi": 12,
-  "kodedist": 708016,
+  "kodedist": "0708016",
   "Column6": "FTEBW350-12",
   "Column7": "FTEBW350-12",
   "Column8": ""
@@ -1814,7 +1814,7 @@
   "nama": "FTE BW 350 ML K12 – SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708016,
+  "kodedist": "0708016",
   "Column6": "FTEBW350-12",
   "Column7": "FTEBW350-12",
   "Column8": ""
@@ -1824,7 +1824,7 @@
   "nama": "FTE CO NATA DE COCO 350 ML - K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708015,
+  "kodedist": "0708015",
   "Column6": "FTECP350-NDC",
   "Column7": "FTECP350-NDC",
   "Column8": ""
@@ -1834,7 +1834,7 @@
   "nama": "FTE CO NATA DE COCO 350 ML - K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708015,
+  "kodedist": "0708015",
   "Column6": "FTECP350-NDC",
   "Column7": "FTECP350-NDC",
   "Column8": ""
@@ -1844,7 +1844,7 @@
   "nama": "FTE FR 350 ML K12 SHRINK",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708003,
+  "kodedist": "0708003",
   "Column6": "FTEFR350-12",
   "Column7": "FTEFR350-12",
   "Column8": ""
@@ -1854,7 +1854,7 @@
   "nama": "FTE FR 350 ML K12 SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708003,
+  "kodedist": "0708003",
   "Column6": "FTEFR350-12",
   "Column7": "FTEFR350-12",
   "Column8": ""
@@ -1864,7 +1864,7 @@
   "nama": "FTE FR 500 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 711006,
+  "kodedist": "0711006",
   "Column6": "FTEFR500-24",
   "Column7": "FTEFR500-24",
   "Column8": ""
@@ -1874,7 +1874,7 @@
   "nama": "FTE FR 500 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 711006,
+  "kodedist": "0711006",
   "Column6": "FTEFR500-24",
   "Column7": "FTEFR500-24",
   "Column8": ""
@@ -1924,7 +1924,7 @@
   "nama": "FTE LC 500 ML K12",
   "satuan": "CRT",
   "isi": 12,
-  "kodedist": 719001,
+  "kodedist": "0719001",
   "Column6": "FTE 500 LC",
   "Column7": "FTE 500 LC",
   "Column8": ""
@@ -1934,7 +1934,7 @@
   "nama": "FTE LC 500 ML K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 719001,
+  "kodedist": "0719001",
   "Column6": "FTE 500 LC",
   "Column7": "FTE 500 LC",
   "Column8": ""
@@ -1944,7 +1944,7 @@
   "nama": "FTE LM 350 ML K12 SHRINK",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708007,
+  "kodedist": "0708007",
   "Column6": "FTELM350-12",
   "Column7": "FTELM350-12",
   "Column8": ""
@@ -1954,7 +1954,7 @@
   "nama": "FTE LM 350 ML K12 SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708007,
+  "kodedist": "0708007",
   "Column6": "FTELM350-12",
   "Column7": "FTELM350-12",
   "Column8": ""
@@ -1964,7 +1964,7 @@
   "nama": "FTE LM 500 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 711007,
+  "kodedist": "0711007",
   "Column6": "FTELM500-24",
   "Column7": "FTELM500-24",
   "Column8": ""
@@ -1974,7 +1974,7 @@
   "nama": "FTE LM 500 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 711007,
+  "kodedist": "0711007",
   "Column6": "FTELM500-24",
   "Column7": "FTELM500-24",
   "Column8": ""
@@ -1984,7 +1984,7 @@
   "nama": "FTE MK 350 ML K12 SHRINK",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708006,
+  "kodedist": "0708006",
   "Column6": "FTEMK350-12",
   "Column7": "FTEMK350-12",
   "Column8": ""
@@ -1994,7 +1994,7 @@
   "nama": "FTE MK 350 ML K12 SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708006,
+  "kodedist": "0708006",
   "Column6": "FTEMK350-12",
   "Column7": "FTEMK350-12",
   "Column8": ""
@@ -2024,7 +2024,7 @@
   "nama": "FTE SB 350 ML K12 SHRINK",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708011,
+  "kodedist": "0708011",
   "Column6": "FTESB350-12",
   "Column7": "FTESB350-12",
   "Column8": ""
@@ -2034,7 +2034,7 @@
   "nama": "FTE SB 350 ML K12 SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708011,
+  "kodedist": "0708011",
   "Column6": "FTESB350-12",
   "Column7": "FTESB350-12",
   "Column8": ""
@@ -2044,7 +2044,7 @@
   "nama": "FTE SB 500 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 711002,
+  "kodedist": "0711002",
   "Column6": "FTESTW500-24",
   "Column7": "FTESTW500-24",
   "Column8": ""
@@ -2054,7 +2054,7 @@
   "nama": "FTE SB 500 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 711002,
+  "kodedist": "0711002",
   "Column6": "FTESTW500-24",
   "Column7": "FTESTW500-24",
   "Column8": ""
@@ -2064,7 +2064,7 @@
   "nama": "FTE XT 500 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 711005,
+  "kodedist": "0711005",
   "Column6": "FTEXT500-24",
   "Column7": "FTEXT500-24",
   "Column8": ""
@@ -2074,7 +2074,7 @@
   "nama": "FTE XT 500 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 711005,
+  "kodedist": "0711005",
   "Column6": "FTEXT500-24",
   "Column7": "FTEXT500-24",
   "Column8": ""
@@ -2084,7 +2084,7 @@
   "nama": "FTG 3 RASA BC AP SB 200 ML S6 K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703007,
+  "kodedist": "0703007",
   "Column6": "FTGBAS",
   "Column7": "FTGBAS",
   "Column8": ""
@@ -2094,7 +2094,7 @@
   "nama": "FTG 3 RASA BC AP SB 200 ML S6 K24 – PCS",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 703007,
+  "kodedist": "0703007",
   "Column6": "FTGBAS",
   "Column7": "FTGBAS",
   "Column8": ""
@@ -2104,7 +2104,7 @@
   "nama": "FTG AP 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703001,
+  "kodedist": "0703001",
   "Column6": "FTGAP",
   "Column7": "FTGAP",
   "Column8": ""
@@ -2114,7 +2114,7 @@
   "nama": "FTG AP 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 703001,
+  "kodedist": "0703001",
   "Column6": "FTGAP",
   "Column7": "FTGAP",
   "Column8": ""
@@ -2124,7 +2124,7 @@
   "nama": "FTG BC 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703004,
+  "kodedist": "0703004",
   "Column6": "FTGBC",
   "Column7": "FTGBC",
   "Column8": ""
@@ -2134,7 +2134,7 @@
   "nama": "FTG BC 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 703004,
+  "kodedist": "0703004",
   "Column6": "FTGBC",
   "Column7": "FTGBC",
   "Column8": ""
@@ -2144,7 +2144,7 @@
   "nama": "FTG FR 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703006,
+  "kodedist": "0703006",
   "Column6": "FTGFR",
   "Column7": "FTGFR",
   "Column8": ""
@@ -2154,7 +2154,7 @@
   "nama": "FTG FR 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 703006,
+  "kodedist": "0703006",
   "Column6": "FTGFR",
   "Column7": "FTGFR",
   "Column8": ""
@@ -2164,7 +2164,7 @@
   "nama": "FTG SB 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703002,
+  "kodedist": "0703002",
   "Column6": "FTGSTW",
   "Column7": "FTGSTW",
   "Column8": ""
@@ -2174,7 +2174,7 @@
   "nama": "FTG SB 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 703002,
+  "kodedist": "0703002",
   "Column6": "FTGSTW",
   "Column7": "FTGSTW",
   "Column8": ""
@@ -2184,7 +2184,7 @@
   "nama": "FTK AP 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703009,
+  "kodedist": "0703009",
   "Column6": "FTK 250 AP",
   "Column7": "FTK 250 AP",
   "Column8": ""
@@ -2194,7 +2194,7 @@
   "nama": "FTK AP 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 703009,
+  "kodedist": "0703009",
   "Column6": "FTK 250 AP",
   "Column7": "FTK 250 AP",
   "Column8": ""
@@ -2204,7 +2204,7 @@
   "nama": "FTK BC 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703010,
+  "kodedist": "0703010",
   "Column6": "FTK 250 BC",
   "Column7": "FTK 250 BC",
   "Column8": ""
@@ -2214,7 +2214,7 @@
   "nama": "FTK BC 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 703010,
+  "kodedist": "0703010",
   "Column6": "FTK 250 BC",
   "Column7": "FTK 250 BC",
   "Column8": ""
@@ -2224,7 +2224,7 @@
   "nama": "FTK LM 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 703011,
+  "kodedist": "0703011",
   "Column6": "FTK 250 LM",
   "Column7": "FTK 250 LM",
   "Column8": ""
@@ -2234,7 +2234,7 @@
   "nama": "FTK LM 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 703011,
+  "kodedist": "0703011",
   "Column6": "FTK 250 LM",
   "Column7": "FTK 250 LM",
   "Column8": ""
@@ -2244,7 +2244,7 @@
   "nama": "FTO AP 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 706001,
+  "kodedist": "0706001",
   "Column6": "FTOAP",
   "Column7": "FTOAP",
   "Column8": ""
@@ -2254,7 +2254,7 @@
   "nama": "FTO AP 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 706001,
+  "kodedist": "0706001",
   "Column6": "FTOAP",
   "Column7": "FTOAP",
   "Column8": ""
@@ -2264,7 +2264,7 @@
   "nama": "FTO BC 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 706002,
+  "kodedist": "0706002",
   "Column6": "FTOBC",
   "Column7": "FTOBC",
   "Column8": ""
@@ -2274,7 +2274,7 @@
   "nama": "FTO BC 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 706002,
+  "kodedist": "0706002",
   "Column6": "FTOBC",
   "Column7": "FTOBC",
   "Column8": ""
@@ -2384,7 +2384,7 @@
   "nama": "PAB 1500 MI K12 SHORT NECK",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 713004,
+  "kodedist": "0713004",
   "Column6": "PAB1500",
   "Column7": "PAB1500",
   "Column8": ""
@@ -2394,7 +2394,7 @@
   "nama": "PAB 1500 MI K12 SHORT NECK - BTL",
   "satuan": "BTL",
   "isi": 1,
-  "kodedist": 713004,
+  "kodedist": "0713004",
   "Column6": "PAB1500",
   "Column7": "PAB1500",
   "Column8": ""
@@ -2404,7 +2404,7 @@
   "nama": "PAB 1500 ML K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 713004,
+  "kodedist": "0713004",
   "Column6": "PAB1500",
   "Column7": "PAB1500",
   "Column8": ""
@@ -2454,7 +2454,7 @@
   "nama": "PAB 220 ML K20",
   "satuan": "KARTON",
   "isi": 20,
-  "kodedist": 713001,
+  "kodedist": "0713001",
   "Column6": "PAB220",
   "Column7": "PAB220",
   "Column8": ""
@@ -2464,7 +2464,7 @@
   "nama": "PAB 220 ML K20 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 713001,
+  "kodedist": "0713001",
   "Column6": "PAB220",
   "Column7": "PAB220",
   "Column8": ""
@@ -2474,7 +2474,7 @@
   "nama": "PAB 330 ML - BTL",
   "satuan": "BTL",
   "isi": 1,
-  "kodedist": 713002,
+  "kodedist": "0713002",
   "Column6": "PAB330",
   "Column7": "PAB330",
   "Column8": ""
@@ -2484,7 +2484,7 @@
   "nama": "PAB 330 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 713002,
+  "kodedist": "0713002",
   "Column6": "PAB330",
   "Column7": "PAB330",
   "Column8": ""
@@ -2494,7 +2494,7 @@
   "nama": "PAB 330 ML K24 SHORT NECK",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 713002,
+  "kodedist": "0713002",
   "Column6": "PAB330",
   "Column7": "PAB330",
   "Column8": ""
@@ -2504,7 +2504,7 @@
   "nama": "PAB 330 ML K24 SHORT NECK - BTL",
   "satuan": "BTL",
   "isi": 24,
-  "kodedist": 713002,
+  "kodedist": "0713002",
   "Column6": "PAB330",
   "Column7": "PAB330",
   "Column8": ""
@@ -2514,7 +2514,7 @@
   "nama": "PAB 600 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 713003,
+  "kodedist": "0713003",
   "Column6": "PAB600",
   "Column7": "PAB600",
   "Column8": ""
@@ -2524,7 +2524,7 @@
   "nama": "PAB 600 ML K24 SHORT NECK",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 713003,
+  "kodedist": "0713003",
   "Column6": "PAB600",
   "Column7": "PAB600",
   "Column8": ""
@@ -2534,7 +2534,7 @@
   "nama": "PAB 600 ML K24 SHORT NECK - BTL",
   "satuan": "BTL",
   "isi": 1,
-  "kodedist": 713003,
+  "kodedist": "0713003",
   "Column6": "PAB600",
   "Column7": "PAB600",
   "Column8": ""
@@ -3544,7 +3544,7 @@
   "nama": "STE 390 ML K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 712005,
+  "kodedist": "0712005",
   "Column6": "STB390",
   "Column7": "STB390",
   "Column8": ""
@@ -3554,7 +3554,7 @@
   "nama": "STE 390 ML K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 712005,
+  "kodedist": "0712005",
   "Column6": "STB390",
   "Column7": "STB390",
   "Column8": ""
@@ -3564,7 +3564,7 @@
   "nama": "STK 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 712004,
+  "kodedist": "0712004",
   "Column6": "STK200",
   "Column7": "STK200",
   "Column8": ""
@@ -3574,7 +3574,7 @@
   "nama": "STK 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 712004,
+  "kodedist": "0712004",
   "Column6": "STK200",
   "Column7": "STK200",
   "Column8": ""
@@ -3584,7 +3584,7 @@
   "nama": "STK 200 ML K24 ROCKET CHICKEN",
   "satuan": "CRT",
   "isi": 24,
-  "kodedist": 712006,
+  "kodedist": "0712006",
   "Column6": "STK200 RC",
   "Column7": "STK200 RC",
   "Column8": ""
@@ -3594,7 +3594,7 @@
   "nama": "STK 200 ML K24 ROCKET CHICKEN - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 712006,
+  "kodedist": "0712006",
   "Column6": "STK200 RC",
   "Column7": "STK200 RC",
   "Column8": ""
@@ -4804,7 +4804,7 @@
   "nama": "TBE 350 ML K12 ASEPTIC",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708001,
+  "kodedist": "0708001",
   "Column6": "TBE350",
   "Column7": "TBE350",
   "Column8": ""
@@ -4814,7 +4814,7 @@
   "nama": "TBE 350 ML K12 ASEPTIC - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708001,
+  "kodedist": "0708001",
   "Column6": "TBE350",
   "Column7": "TBE350",
   "Column8": ""
@@ -4844,7 +4844,7 @@
   "nama": "TBE 350 ML K12 ASEPTIC LESS SUGAR",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708013,
+  "kodedist": "0708013",
   "Column6": "TBE350LS",
   "Column7": "TBE350LS",
   "Column8": ""
@@ -4854,7 +4854,7 @@
   "nama": "TBE 350 ML K12 ASEPTIC LESS SUGAR - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708013,
+  "kodedist": "0708013",
   "Column6": "TBE350LS",
   "Column7": "TBE350LS",
   "Column8": ""
@@ -4864,7 +4864,7 @@
   "nama": "TBE 350 ML K12 ASEPTIC TAWAR",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 708009,
+  "kodedist": "0708009",
   "Column6": "TBE350-TWR",
   "Column7": "TBE350-TWR",
   "Column8": ""
@@ -4874,7 +4874,7 @@
   "nama": "TBE 350 ML K12 ASEPTIC TAWAR - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 708009,
+  "kodedist": "0708009",
   "Column6": "TBE350-TWR",
   "Column7": "TBE350-TWR",
   "Column8": ""
@@ -4884,7 +4884,7 @@
   "nama": "TBE 450 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 709003,
+  "kodedist": "0709003",
   "Column6": "TBEGR450",
   "Column7": "TBEGR450",
   "Column8": ""
@@ -4894,7 +4894,7 @@
   "nama": "TBE 450 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 709003,
+  "kodedist": "0709003",
   "Column6": "TBEGR450",
   "Column7": "TBEGR450",
   "Column8": ""
@@ -5144,7 +5144,7 @@
   "nama": "TBK 1 L K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 701007,
+  "kodedist": "0701007",
   "Column6": "TBK1LTR",
   "Column7": "TBK1LTR",
   "Column8": ""
@@ -5154,7 +5154,7 @@
   "nama": "TBK 1 L K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 701007,
+  "kodedist": "0701007",
   "Column6": "TBK1LTR",
   "Column7": "TBK1LTR",
   "Column8": ""
@@ -5164,7 +5164,7 @@
   "nama": "TBK 200 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 701001,
+  "kodedist": "0701001",
   "Column6": "TBK200",
   "Column7": "TBK200",
   "Column8": ""
@@ -5174,7 +5174,7 @@
   "nama": "TBK 200 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 701001,
+  "kodedist": "0701001",
   "Column6": "TBK200",
   "Column7": "TBK200",
   "Column8": ""
@@ -5184,7 +5184,7 @@
   "nama": "TBK 200 ML S6 K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 701004,
+  "kodedist": "0701004",
   "Column6": "TBK200BD",
   "Column7": "TBK200BD",
   "Column8": ""
@@ -5194,7 +5194,7 @@
   "nama": "TBK 200 ML S6 K24 - PCS",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 701004,
+  "kodedist": "0701004",
   "Column6": "TBK200BD",
   "Column7": "TBK200BD",
   "Column8": ""
@@ -5204,7 +5204,7 @@
   "nama": "TBK 250 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 701002,
+  "kodedist": "0701002",
   "Column6": "TBK250",
   "Column7": "TBK250",
   "Column8": ""
@@ -5214,7 +5214,7 @@
   "nama": "TBK 250 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 701002,
+  "kodedist": "0701002",
   "Column6": "TBK250",
   "Column7": "TBK250",
   "Column8": ""
@@ -5224,7 +5224,7 @@
   "nama": "TBK 250 ML K24 LESS SUGAR",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 701003,
+  "kodedist": "0701003",
   "Column6": "TBKLS250",
   "Column7": "TBKLS250",
   "Column8": ""
@@ -5234,7 +5234,7 @@
   "nama": "TBK 250 ML K24 LESS SUGAR - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 701003,
+  "kodedist": "0701003",
   "Column6": "TBKLS250",
   "Column7": "TBKLS250",
   "Column8": ""
@@ -5244,7 +5244,7 @@
   "nama": "TBK 250 ML S6 K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 701005,
+  "kodedist": "0701005",
   "Column6": "TBK250BD",
   "Column7": "TBK250BD",
   "Column8": ""
@@ -5254,7 +5254,7 @@
   "nama": "TBK 300 ML K24",
   "satuan": "CRT",
   "isi": 24,
-  "kodedist": 701009,
+  "kodedist": "0701009",
   "Column6": "TBK300",
   "Column7": "TBK300",
   "Column8": ""
@@ -5264,7 +5264,7 @@
   "nama": "TBK 300 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 701009,
+  "kodedist": "0701009",
   "Column6": "TBK300",
   "Column7": "TBK300",
   "Column8": ""
@@ -5274,7 +5274,7 @@
   "nama": "TBK 300 ML K24 - PROGRAM",
   "satuan": "CRT",
   "isi": 24,
-  "kodedist": 701009,
+  "kodedist": "0701009",
   "Column6": "TBK300",
   "Column7": "TBK300",
   "Column8": ""
@@ -5284,7 +5284,7 @@
   "nama": "TBK 300 ML K24 - PROGRAM - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 701009,
+  "kodedist": "0701009",
   "Column6": "TBK300",
   "Column7": "TBK300",
   "Column8": ""
@@ -5294,7 +5294,7 @@
   "nama": "TBK 330 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 701006,
+  "kodedist": "0701006",
   "Column6": "TBK330",
   "Column7": "TBK330",
   "Column8": ""
@@ -5304,7 +5304,7 @@
   "nama": "TBK 330 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 701006,
+  "kodedist": "0701006",
   "Column6": "TBK330",
   "Column7": "TBK330",
   "Column8": ""
@@ -5364,7 +5364,7 @@
   "nama": "TBN 318 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 707005,
+  "kodedist": "0707005",
   "Column6": "TBN",
   "Column7": "TBN",
   "Column8": ""
@@ -5374,7 +5374,7 @@
   "nama": "TBN 318 ML K24- PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 707005,
+  "kodedist": "0707005",
   "Column6": "TBN",
   "Column7": "TBN",
   "Column8": ""
@@ -5384,7 +5384,7 @@
   "nama": "TBN 318 ML PROGRAM K20",
   "satuan": "KARTON",
   "isi": 20,
-  "kodedist": 707007,
+  "kodedist": "0707007",
   "Column6": "TBN-K20",
   "Column7": "TBN-K20",
   "Column8": ""
@@ -5394,7 +5394,7 @@
   "nama": "TBN 318 ML PROGRAM K20 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 707007,
+  "kodedist": "0707007",
   "Column6": "TBN-K20",
   "Column7": "TBN-K20",
   "Column8": ""
@@ -5404,7 +5404,7 @@
   "nama": "TBS 220 ML",
   "satuan": "KRAT",
   "isi": 24,
-  "kodedist": 714001,
+  "kodedist": "0714001",
   "Column6": "TBS",
   "Column7": "TBS",
   "Column8": ""
@@ -5414,7 +5414,7 @@
   "nama": "TBS 220 ML - BTL",
   "satuan": "BTL",
   "isi": 1,
-  "kodedist": 714001,
+  "kodedist": "0714001",
   "Column6": "TBS",
   "Column7": "TBS",
   "Column8": ""
@@ -5424,7 +5424,7 @@
   "nama": "TBS 220ML KEMASAN - BOTOL",
   "satuan": "BOTOL",
   "isi": 24,
-  "kodedist": 714001,
+  "kodedist": "0714001",
   "Column6": "TBS",
   "Column7": "TBS",
   "Column8": ""
@@ -5434,7 +5434,7 @@
   "nama": "TBS 220ML KEMASAN - KRAT",
   "satuan": "KRAT",
   "isi": 24,
-  "kodedist": 714001,
+  "kodedist": "0714001",
   "Column6": "TBS",
   "Column7": "TBS",
   "Column8": ""
@@ -5444,7 +5444,7 @@
   "nama": "TBS 220ML KEMASAN - PETI",
   "satuan": "PETI",
   "isi": 1,
-  "kodedist": 714001,
+  "kodedist": "0714001",
   "Column6": "TBS",
   "Column7": "TBS",
   "Column8": ""
@@ -6984,7 +6984,7 @@
   "nama": "TSB 230 ML",
   "satuan": "KRAT",
   "isi": 24,
-  "kodedist": 706003,
+  "kodedist": "0706003",
   "Column6": "TBO230-12",
   "Column7": "TBO230-12",
   "Column8": ""
@@ -6994,7 +6994,7 @@
   "nama": "TSB 230 ML - BTL",
   "satuan": "BTL",
   "isi": 1,
-  "kodedist": 706003,
+  "kodedist": "0706003",
   "Column6": "TBO230-12",
   "Column7": "TBO230-12",
   "Column8": ""
@@ -7004,7 +7004,7 @@
   "nama": "TSB 230 ML KEMASAN - BOTOL",
   "satuan": "BOTOL",
   "isi": 24,
-  "kodedist": 706003,
+  "kodedist": "0706003",
   "Column6": "TBO230-12",
   "Column7": "TBO230-12",
   "Column8": ""
@@ -7014,7 +7014,7 @@
   "nama": "TSB 230 ML KEMASAN - KRAT",
   "satuan": "KRAT",
   "isi": 24,
-  "kodedist": 706003,
+  "kodedist": "0706003",
   "Column6": "TBO230-12",
   "Column7": "TBO230-12",
   "Column8": ""
@@ -7024,7 +7024,7 @@
   "nama": "TSB 230 ML KEMASAN - PETI",
   "satuan": "PETI",
   "isi": 1,
-  "kodedist": 706003,
+  "kodedist": "0706003",
   "Column6": "TBO230-12",
   "Column7": "TBO230-12",
   "Column8": ""
@@ -7054,7 +7054,7 @@
   "nama": "TSC 330 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 707003,
+  "kodedist": "0707003",
   "Column6": "TSC",
   "Column7": "TSC",
   "Column8": ""
@@ -7064,7 +7064,7 @@
   "nama": "TSC 330 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 24,
-  "kodedist": 707003,
+  "kodedist": "0707003",
   "Column6": "TSC",
   "Column7": "TSC",
   "Column8": ""
@@ -7074,7 +7074,7 @@
   "nama": "TSC 330 ML PROGRAM K20",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 707006,
+  "kodedist": "0707006",
   "Column6": "TSCK20",
   "Column7": "TSCK20",
   "Column8": ""
@@ -7084,7 +7084,7 @@
   "nama": "TSC 330 ML PROGRAM K20 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 707006,
+  "kodedist": "0707006",
   "Column6": "TSCK20",
   "Column7": "TSCK20",
   "Column8": ""
@@ -7424,7 +7424,7 @@
   "nama": "TSE 500 ML K24",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 710001,
+  "kodedist": "0710001",
   "Column6": "TSEREG500",
   "Column7": "TSEREG500",
   "Column8": ""
@@ -7434,7 +7434,7 @@
   "nama": "TSE 500 ML K24 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 710001,
+  "kodedist": "0710001",
   "Column6": "TSEREG500",
   "Column7": "TSEREG500",
   "Column8": ""
@@ -7444,7 +7444,7 @@
   "nama": "TSE MF 300 ML K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 710006,
+  "kodedist": "0710006",
   "Column6": "TSE300MF",
   "Column7": "TSE300MF",
   "Column8": ""
@@ -7454,7 +7454,7 @@
   "nama": "TSE MF 300 ML K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 710006,
+  "kodedist": "0710006",
   "Column6": "TSE300MF",
   "Column7": "TSE300MF",
   "Column8": ""
@@ -7464,7 +7464,7 @@
   "nama": "TSE SPARKLING LL 300 ML K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 710004,
+  "kodedist": "0710004",
   "Column6": "TSE300LL",
   "Column7": "TSE300LL",
   "Column8": ""
@@ -7474,7 +7474,7 @@
   "nama": "TSE SPARKLING LL 300 ML K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 710004,
+  "kodedist": "0710004",
   "Column6": "TSE300LL",
   "Column7": "TSE300LL",
   "Column8": ""
@@ -7484,7 +7484,7 @@
   "nama": "TSE ZERO SPARKLING LC 300 ML K12",
   "satuan": "KARTON",
   "isi": 12,
-  "kodedist": 710005,
+  "kodedist": "0710005",
   "Column6": "TSE300LC",
   "Column7": "TSE300LC",
   "Column8": ""
@@ -7494,7 +7494,7 @@
   "nama": "TSE ZERO SPARKLING LC 300 ML K12 - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 710005,
+  "kodedist": "0710005",
   "Column6": "TSE300LC",
   "Column7": "TSE300LC",
   "Column8": ""
@@ -7504,7 +7504,7 @@
   "nama": "TSE ZERO SPARKLING LC 300 ML K12 - SHRINK",
   "satuan": "KARTON",
   "isi": 24,
-  "kodedist": 710005,
+  "kodedist": "0710005",
   "Column6": "TSE300LC",
   "Column7": "TSE300LC",
   "Column8": ""
@@ -7514,7 +7514,7 @@
   "nama": "TSE ZERO SPARKLING LC 300 ML K12 - SHRINK - PCS",
   "satuan": "PCS",
   "isi": 1,
-  "kodedist": 710005,
+  "kodedist": "0710005",
   "Column6": "TSE300LC",
   "Column7": "TSE300LC",
   "Column8": ""

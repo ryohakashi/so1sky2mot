@@ -1,2 +1,0 @@
-Nd6tran	SalesInvoice	Attribute	SalesmanId	SalesOrderNumber	SalesOrderDate	InvoiceNumber	InvoiceDate	Term	SoldToCustomerId	SentToCustomerId	InvoicedToCustomerId	CustomerPo	SellingType	DocumentType	CashPayment	GiroPayment	GiroNumber	GiroBank	GiroDue	AdjustmentAmount	Discount1	Discount2	Discount3	Tax1	Tax2	Tax3	ProductCode	ProductVarianCode	QtySold	QtyFreeGood	SellingPrice	LineDiscount1	LineDiscount2	LineDiscount3	LineDiscount4	LineDiscount5	CompanyId	BranchId	DivisionId	WarehouseId	ManualPonumber
-
