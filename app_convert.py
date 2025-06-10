@@ -22,7 +22,7 @@ import json
 file01 = open("./template/01.json")
 json01 = json.loads(file01.read())
 
-print(f"Singkatan: {json01['singkatan']}")
+print(f"Singkatan: {json01['prefix_outlet']}")
 
 # %%
 df_conv = pd.read_json('./template/02.json')
@@ -45,15 +45,15 @@ for index, row in df_so1sky.iterrows():
                     "Attribute": "value",
                     "SalesmanId": row["SALESMAN ID"],
                     # "SalesOrderNumber": row["ORDER ID"].replace("'", ""),
-                    "SalesOrderNumber": row["ORDER ID"],
+                    "SalesOrderNumber": "%s%s" % (json01['prefix_order'], row["ORDER ID"]),
                     "SalesOrderDate": row["TANGGAL"],
                     # "InvoiceNumber": row["NOMOR"].replace("'", ""),
-                    "InvoiceNumber": row["ORDER ID"],
+                    "InvoiceNumber": "%s%s" % (json01['prefix_order'], row["ORDER ID"]),
                     "InvoiceDate": row["TANGGAL"],
                     "Term": 0,
-                    "SoldToCustomerId": row["CUST ID"].replace(json01['singkatan'], ""),
-                    "SentToCustomerId": row["CUST ID"].replace(json01['singkatan'], ""),
-                    "InvoicedToCustomerId": row["CUST ID"].replace(json01['singkatan'], ""),
+                    "SoldToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
+                    "SentToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
+                    "InvoicedToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
                     "CustomerPo": "",
                     "SellingType": "TO",
                     "DocumentType": "",
@@ -75,21 +75,21 @@ for index, row in df_so1sky.iterrows():
                     "QtySold": (row["QTY"] * df_conv.at[row["PRODUK ID"], "isi"]),
                     # "QtySold": (row["QTY"]),
                     "QtyFreeGood": 0,
-                    "SellingPrice": row["AMOUNT"],
+                    "SellingPrice": row["HARGA"],
                     "LineDiscount1": 0,
                     "LineDiscount2": 0,
                     "LineDiscount3": 0,
                     "LineDiscount4": 0,
                     "LineDiscount5": 0,
                     "CompanyId": "NS6022050001143",
-                    "BranchId": "1480910000000",
-                    "DivisionId": "1481610000000",
+                    "BranchId": "1480907626666",
+                    "DivisionId": "1481611116601",
                     "WarehouseId": "alokasi",
                     "ManualPonumber": ""
                 }
             # print(dict_item)
             list_template.append(dict_item)
-            print(row["CUST ID"].replace(json01['singkatan'], ""))
+            print(row["CUST ID"].replace(json01['prefix_outlet'], ""))
     except KeyError:
         print(f"{row['PRODUK ID']} tidak ditemukan di master harga...!")
 
