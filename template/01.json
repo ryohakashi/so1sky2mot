@@ -1,4 +1,5 @@
 {
   "prefix_outlet": "SMCP-",
-  "prefix_order": "SGS"
+  "prefix_order": "SGS",
+  "ppn_order": 11
 }

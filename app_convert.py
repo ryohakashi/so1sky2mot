@@ -75,7 +75,7 @@ for index, row in df_so1sky.iterrows():
                     "QtySold": (row["QTY"] * df_conv.at[row["PRODUK ID"], "isi"]),
                     # "QtySold": (row["QTY"]),
                     "QtyFreeGood": 0,
-                    "SellingPrice": row["HARGA"],
+                    "SellingPrice": row["HARGA"] / ((100+json01['ppn_order'])/100),
                     "LineDiscount1": 0,
                     "LineDiscount2": 0,
                     "LineDiscount3": 0,
