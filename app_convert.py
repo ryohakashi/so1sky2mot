@@ -19,8 +19,8 @@ print(list_template)
 # %%
 import json
 
-file01 = open("./template/01.json")
-json01 = json.loads(file01.read())
+with open("./template/01.json") as file01:
+    json01 = json.loads(file01.read())
 
 print(f"Singkatan: {json01['prefix_outlet']}")
 
@@ -30,68 +30,80 @@ df_conv.set_index("kode", inplace=True)
 df_conv
 
 # %%
-for index, row in df_so1sky.iterrows():
+df_so1sky_merge = pd.merge(df_so1sky, df_conv, how='left', left_on='PRODUK ID', right_on='kode')
+print(df_so1sky_merge)
+
+# %%
+for index, row in df_so1sky_merge.iterrows():
     # df_data = df_conv[ df_conv['kode'] == row["KD PRODUK"] ]
     
     # df_conv._get_value(row["KD PRODUK"], "kodedist")
     # print(type(row["QTY"]*df_conv._get_value(row["KD PRODUK"], "isi")))
-    try:
-        if (row["PRODUK ID"] == df_so1sky.iat[index-1, 8]) and (row["AMOUNT"] == 0):
-            list_template[len(list_template)-1]["QtyFreeGood"] = row["QTY"] * df_conv.at[row["PRODUK ID"], "isi"]
-        else:
-            dict_item = {
-                    "Nd6tran": "ND6TRAN",
-                    "SalesInvoice": "salesinvoice",
-                    "Attribute": "value",
-                    "SalesmanId": row["SALESMAN ID"],
-                    # "SalesOrderNumber": row["ORDER ID"].replace("'", ""),
-                    "SalesOrderNumber": "%s%s" % (json01['prefix_order'], row["ORDER ID"]),
-                    "SalesOrderDate": row["TANGGAL"],
-                    # "InvoiceNumber": row["NOMOR"].replace("'", ""),
-                    "InvoiceNumber": "%s%s" % (json01['prefix_order'], row["ORDER ID"]),
-                    "InvoiceDate": row["TANGGAL"],
-                    "Term": 0,
-                    "SoldToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
-                    "SentToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
-                    "InvoicedToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
-                    "CustomerPo": "",
-                    "SellingType": "TO",
-                    "DocumentType": "",
-                    "CashPayment": 0,
-                    "GiroPayment": 0,
-                    "GiroNumber": "",
-                    "GiroBank": "",
-                    "GiroDue": "",
-                    "AdjustmentAmount": 0,
-                    "Discount1": row["DISKON 1"],
-                    "Discount2": row["DISKON 2"],
-                    "Discount3": 0,
-                    "Tax1": 11,
-                    "Tax2": 0,
-                    "Tax3": 0,
-                    # "ProductCode": row["KD PRODUK"],
-                    "ProductCode": df_conv.at[row["PRODUK ID"], "kodedist"],
-                    "ProductVarianCode": "-",
-                    "QtySold": (row["QTY"] * df_conv.at[row["PRODUK ID"], "isi"]),
-                    # "QtySold": (row["QTY"]),
-                    "QtyFreeGood": 0,
-                    "SellingPrice": row["HARGA"] / ((100+json01['ppn_order'])/100),
-                    "LineDiscount1": 0,
-                    "LineDiscount2": 0,
-                    "LineDiscount3": 0,
-                    "LineDiscount4": 0,
-                    "LineDiscount5": 0,
-                    "CompanyId": "NS6022050001143",
-                    "BranchId": "1480907626666",
-                    "DivisionId": "1481611116601",
-                    "WarehouseId": "alokasi",
-                    "ManualPonumber": ""
-                }
-            # print(dict_item)
-            list_template.append(dict_item)
-            print(row["CUST ID"].replace(json01['prefix_outlet'], ""))
-    except KeyError:
-        print(f"{row['PRODUK ID']} tidak ditemukan di master harga...!")
+    
+    match (row['hirarki']):
+        case 1:
+            row['QTY'] = row['QTY'] * row['uom1']
+            row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+        case 2:
+            row['QTY'] = row['QTY'] * row['uom2']
+            row['HARGA'] = row['HARGA'] * (row['uom1'] / row['uom2'])
+            row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+        case 3:
+            row['QTY'] = row['QTY'] * row['uom3']
+            row['HARGA'] = row['HARGA'] * row['uom1']
+            row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+    
+    dict_item = {
+        "Nd6tran": "ND6TRAN",
+        "SalesInvoice": "salesinvoice",
+        "Attribute": "value",
+        "SalesmanId": row["SALESMAN ID"],
+        # "SalesOrderNumber": row["ORDER ID"].replace("'", ""),
+        "SalesOrderNumber": f"{json01['prefix_order']}{row['ORDER ID']})",
+        "SalesOrderDate": row["TANGGAL"],
+        # "InvoiceNumber": row["NOMOR"].replace("'", ""),
+        "InvoiceNumber": f"{json01['prefix_order']}{row['ORDER ID']})",
+        "InvoiceDate": row["TANGGAL"],
+        "Term": 0,
+        "SoldToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
+        "SentToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
+        "InvoicedToCustomerId": row["CUST ID"].replace(json01['prefix_outlet'], ""),
+        "CustomerPo": "",
+        "SellingType": "TO",
+        "DocumentType": "",
+        "CashPayment": 0,
+        "GiroPayment": 0,
+        "GiroNumber": "",
+        "GiroBank": "",
+        "GiroDue": "",
+        "AdjustmentAmount": 0,
+        "Discount1": row["DISKON 1"],
+        "Discount2": row["DISKON 2"],
+        "Discount3": 0,
+        "Tax1": 11,
+        "Tax2": 0,
+        "Tax3": 0,
+        # "ProductCode": row["KD PRODUK"],
+        "ProductCode": row["kodedist"],
+        "ProductVarianCode": "-",
+        "QtySold": row["QTY"],
+        # "QtySold": (row["QTY"]),
+        "QtyFreeGood": 0,
+        "SellingPrice": row["HARGA"],
+        "LineDiscount1": 0,
+        "LineDiscount2": 0,
+        "LineDiscount3": 0,
+        "LineDiscount4": 0,
+        "LineDiscount5": 0,
+        "CompanyId": "NS6022050001143",
+        "BranchId": "1480907626666",
+        "DivisionId": "1481611116601",
+        "WarehouseId": "alokasi",
+        "ManualPonumber": ""
+    }
+    # print(dict_item)
+    list_template.append(dict_item)
+    print(row["CUST ID"].replace(json01['prefix_outlet'], ""))
 
 # print(list_template)
 
