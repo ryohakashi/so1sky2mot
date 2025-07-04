@@ -37,99 +37,99 @@
     "nama": "FTB 235ML KMS-BK",
     "satuan": "BOTOL",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "PBFTB235001",
     "nama": "FTB 235ML KMS-PB",
     "satuan": "KRAT",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "PKFTB235001",
     "nama": "FTB 235ML KMS-PK",
     "satuan": "PETI",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "PBSTB318001",
     "nama": "PB BARU STB",
     "satuan": "KRAT",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "PKSTB318001",
     "nama": "PK BARU STB",
     "satuan": "PETI",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "BKSTB318001",
     "nama": "BK BARU STB",
     "satuan": "BOTOL",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "BKTSB230001",
     "nama": "TSB 230 ML KEMASAN - BOTOL",
     "satuan": "BOTOL",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "0706003",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "PBTSB230001",
     "nama": "TSB 230 ML KEMASAN - KRAT",
     "satuan": "KRAT",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "0706003",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "PKTSB230001",
     "nama": "TSB 230 ML KEMASAN - PETI",
     "satuan": "PETI",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "0706003",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "BJCCKAP0001",
@@ -2127,1133 +2127,1133 @@
     "nama": "- ACC - BERGAMOT TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000065-1",
     "nama": "- ACC - BOP (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000065-0",
     "nama": "- ACC - BOP (1 KRG =40 BOS)",
     "satuan": "KRG",
     "isi": "40",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000415-1",
     "nama": "- ACC - CALMING LEMONGRASS TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000444-0",
     "nama": "- ACC - CHAI TEA (1 BAL = 10 BOS)",
     "satuan": "BAL",
     "isi": "100",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000444-1",
     "nama": "- ACC - CHAI TEA (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000444-3",
     "nama": "- ACC - CHAI TEA (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000430-0",
     "nama": "- ACC - EARL GREY TEA (1 BAL = 10 BOS)",
     "satuan": "BAL",
     "isi": "100",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000430-1",
     "nama": "- ACC - EARL GREY TEA (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000430-3",
     "nama": "- ACC - EARL GREY TEA (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000445-0",
     "nama": "- ACC - GENMAICHA (1 BAL = 10 BOS)",
     "satuan": "BAL",
     "isi": "100",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000445-1",
     "nama": "- ACC - GENMAICHA (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000445-3",
     "nama": "- ACC - GENMAICHA (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000436-1",
     "nama": "- ACC - GS011 (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000463-1",
     "nama": "- ACC - GS013 (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000066-1",
     "nama": "- ACC - GSHERB (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000066-0",
     "nama": "- ACC - GSHERB (1 KRG =25 BOS)",
     "satuan": "KRG",
     "isi": "25",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000454-1",
     "nama": "- ACC - GUNPOWDER (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000413-1",
     "nama": "- ACC - INDONESIAN BLACK TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000412-1",
     "nama": "- ACC - INDONESIAN GREEN TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000407-1",
     "nama": "- ACC - JASMINE01 (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000416-1",
     "nama": "- ACC - JAVA JASMINE TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000443-0",
     "nama": "- ACC - OOLONG TEA (1 BAL = 10 BOS)",
     "satuan": "BAL",
     "isi": "100",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000443-1",
     "nama": "- ACC - OOLONG TEA (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000443-3",
     "nama": "- ACC - OOLONG TEA (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000414-1",
     "nama": "- ACC - PEACH TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000429-0",
     "nama": "- ACC - ROASTED TEA (1 BAL = 10 BOS)",
     "satuan": "BAL",
     "isi": "100",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000429-1",
     "nama": "- ACC - ROASTED TEA (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000429-3",
     "nama": "- ACC - ROASTED TEA (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000410-1",
     "nama": "- ACC - ROSELLA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000056-1",
     "nama": "- ACC - SUPERIOR (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000417-1",
     "nama": "- ACC - VANILLA MINT TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000411-1",
     "nama": "- ACC - WHITE TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000464-1",
     "nama": "- BOTOL BIRU 40 GR AP EXPORT (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000464-0",
     "nama": "- BOTOL BIRU 40 GR AP EXPORT (1 CAR =20 BOS)",
     "satuan": "CAR",
     "isi": "200",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000464-3",
     "nama": "- BOTOL BIRU 40 GR AP EXPORT (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000465-1",
     "nama": "- BOTOL BIRU 80 GR AP EXPORT (1 BOS = 5 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000465-0",
     "nama": "- BOTOL BIRU 80 GR AP EXPORT (1 CAR =20 BOS)",
     "satuan": "CAR",
     "isi": "100",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000465-3",
     "nama": "- BOTOL BIRU 80 GR AP EXPORT (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000466-1",
     "nama": "- BOTOL HIJAU 40 GR AP EXPORT (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000466-0",
     "nama": "- BOTOL HIJAU 40 GR AP EXPORT (1 CAR =20 BOS)",
     "satuan": "CAR",
     "isi": "200",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000466-3",
     "nama": "- BOTOL HIJAU 40 GR AP EXPORT (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000357-1",
     "nama": "- BOTOL PREMIUM 100 GR EXPORT (1 BOS = 5 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000357-0",
     "nama": "- BOTOL PREMIUM 100 GR EXPORT (1 CAR =20 BOS)",
     "satuan": "CAR",
     "isi": "100",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000357-3",
     "nama": "- BOTOL PREMIUM 100 GR EXPORT (1 DUS)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000011-1",
     "nama": "- CONTAINER FOOD HYBRID BOTOL 3-4 (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000007-1",
     "nama": "- ES TEH POCI TEH TARIK GULA AREN EXPORT (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000007-0",
     "nama": "- ES TEH POCI TEH TARIK GULA AREN EXPORT (1 CAR = 15 BOS)",
     "satuan": "CAR",
     "isi": "150",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000007-3",
     "nama": "- ES TEH POCI TEH TARIK GULA AREN EXPORT (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000008-1",
     "nama": "- ES TEH POCI VANILA PANDAN SELASIH EXPORT (1 BOS = 10 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000008-0",
     "nama": "- ES TEH POCI VANILA PANDAN SELASIH EXPORT (1 CAR = 15 BOS)",
     "satuan": "CAR",
     "isi": "150",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000008-3",
     "nama": "- ES TEH POCI VANILA PANDAN SELASIH EXPORT (1 PCS)",
     "satuan": "PCS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000021-1",
     "nama": "- GELAS GAGANG POCI LSN (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "12",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000008-1",
     "nama": "- GELAS GAGANG POCI PREMIUM (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000262-0",
     "nama": "- PBNS - POCI BOROBUDUR NAGA SET (1 CAR = 6 BOS)",
     "satuan": "CAR",
     "isi": "6",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000260-0",
     "nama": "- PBSA - POCI TANAH BIASA ENGKEL (1 CAR = 12 BOS)",
     "satuan": "CAR",
     "isi": "12",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000263-0",
     "nama": "- PHS - POCI HARMONI SET (1 CAR = 6 BOS)",
     "satuan": "CAR",
     "isi": "6",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000264-0",
     "nama": "- PJS - POCI JUMBO SET (1 CAR = 6 BOS)",
     "satuan": "CAR",
     "isi": "6",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000394-1",
     "nama": "- POCI CELUP PREMIUM 25 EXPORT (1 BOS = 5 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000394-0",
     "nama": "- POCI CELUP PREMIUM 25 EXPORT (1 CAR = 10 BOS)",
     "satuan": "CAR",
     "isi": "50",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000394-2",
     "nama": "- POCI CELUP PREMIUM 25 EXPORT (1 DUS = 25 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000366-1",
     "nama": "- POCI CELUP WANGI TEH ASLI 25 EXPORT (1 BOS = 5 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000366-0",
     "nama": "- POCI CELUP WANGI TEH ASLI 25 EXPORT (1 CAR = 10 BOS)",
     "satuan": "CAR",
     "isi": "50",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000366-2",
     "nama": "- POCI CELUP WANGI TEH ASLI 25 EXPORT (1 DUS = 25 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000266-1",
     "nama": "- PTCT - POCI KERAMIK TERACOTA (1 BOS = 1 DUS )",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000265-1",
     "nama": "- PWHT - POCI KERAMIK WHITE (1 BOS = 1 DUS )",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000261-0",
     "nama": "- PWS - POCI WALUH SET (1 CAR = 6 BOS)",
     "satuan": "CAR",
     "isi": "6",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "EKTHSC03-1",
     "nama": "- SFG A2KMN (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "EKTMSC01-1",
     "nama": "- SFG BLACK TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "EKTHSC02-1",
     "nama": "- SFG GS009 (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "EKTHSC01-1",
     "nama": "- SFG SPRR (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000458-1",
     "nama": "- SOSRO CELUP 2IN1 5 EXPORT (1 BOS = 30 PCS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000458-0",
     "nama": "- SOSRO CELUP 2IN1 5 EXPORT (1 CAR = 8 BOS)",
     "satuan": "CAR",
     "isi": "8",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000447-1",
     "nama": "- SOSRO CELUP 4 B EXPORT (1 BOS = 20 SCH)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000447-0",
     "nama": "- SOSRO CELUP 4 B EXPORT (1 CAR = 12 BOS)",
     "satuan": "CAR",
     "isi": "240",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000447-2",
     "nama": "- SOSRO CELUP 4 B EXPORT (1 SCH = 4 BAG)",
     "satuan": "SCH",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000375-1",
     "nama": "- TASSEO DARJELING EXPORT (1 BOS = 6 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000375-0",
     "nama": "- TASSEO DARJELING EXPORT (1 CAR = 4 BOS)",
     "satuan": "CAR",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000375-2",
     "nama": "- TASSEO DARJELING EXPORT (1 DUS = 20 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000377-1",
     "nama": "- TASSEO EARL GREY EXPORT (1 BOS = 6 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000377-0",
     "nama": "- TASSEO EARL GREY EXPORT (1 CAR = 4 BOS)",
     "satuan": "CAR",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000377-2",
     "nama": "- TASSEO EARL GREY EXPORT (1 DUS = 20 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000376-1",
     "nama": "- TASSEO ENGLISH BREAKFAST EXPORT (1 BOS = 6 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000376-0",
     "nama": "- TASSEO ENGLISH BREAKFAST EXPORT (1 CAR = 4 BOS)",
     "satuan": "CAR",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000376-2",
     "nama": "- TASSEO ENGLISH BREAKFAST EXPORT (1 DUS = 20 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000373-1",
     "nama": "- TASSEO IRRESISTIBLE PEACH EXPORT (1 BOS = 6 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000373-0",
     "nama": "- TASSEO IRRESISTIBLE PEACH EXPORT (1 CAR = 4 BOS)",
     "satuan": "CAR",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000373-2",
     "nama": "- TASSEO IRRESISTIBLE PEACH EXPORT (1 DUS = 20 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000371-1",
     "nama": "- TASSEO JAVA JASMINE EXPORT (1 BOS = 6 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000371-0",
     "nama": "- TASSEO JAVA JASMINE EXPORT (1 CAR = 4 BOS)",
     "satuan": "CAR",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000371-2",
     "nama": "- TASSEO JAVA JASMINE EXPORT (1 DUS = 20 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000372-1",
     "nama": "- TASSEO LEMONGRASS EXPORT (1 BOS = 6 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000372-0",
     "nama": "- TASSEO LEMONGRASS EXPORT (1 CAR = 4 BOS)",
     "satuan": "CAR",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000372-2",
     "nama": "- TASSEO LEMONGRASS EXPORT (1 DUS = 20 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000374-1",
     "nama": "- TASSEO PURE GREEN EXPORT (1 BOS = 6 DUS)",
     "satuan": "BOS",
     "isi": "1",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000374-0",
     "nama": "- TASSEO PURE GREEN EXPORT (1 CAR = 4 BOS)",
     "satuan": "CAR",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000374-2",
     "nama": "- TASSEO PURE GREEN EXPORT (1 DUS = 20 BAG)",
     "satuan": "DUS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000020-1",
     "nama": "- TUMBLER FLIP BOTOL (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000018-1",
     "nama": "- TUMBLER FLIP POCI (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000019-1",
     "nama": "- TUMBLER FLIP SOSRO (1 BOS = 1 PCS)",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000061-1",
     "nama": "ACC-A2KMN - ACC - A2KMN (1 BOS = 1 PCS )",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000058-1",
     "nama": "ACC-BLACK TEA - ACC - BLACK TEA (1 BOS = 1 PCS )",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000391-1",
     "nama": "ACC-GS009 - ACC - GS009 (1 BOS = 1 PCS )",
     "satuan": "BOS",
     "isi": "24",
-    "hirarki": "",
+    "hirarki": "0",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000001-0",
@@ -3262,9 +3262,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000001-1",
@@ -3273,9 +3273,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000001-2",
@@ -3284,9 +3284,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000001-3",
@@ -3295,9 +3295,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000003-0",
@@ -3306,9 +3306,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000003-1",
@@ -3317,9 +3317,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000003-2",
@@ -3328,9 +3328,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000003-3",
@@ -3339,9 +3339,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000004-0",
@@ -3350,9 +3350,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000004-1",
@@ -3361,9 +3361,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000004-2",
@@ -3372,9 +3372,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000004-3",
@@ -3383,9 +3383,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000005-0",
@@ -3394,9 +3394,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000005-1",
@@ -3405,9 +3405,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000005-2",
@@ -3416,9 +3416,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000005-3",
@@ -3427,9 +3427,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000008-0",
@@ -3438,9 +3438,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000008-1",
@@ -3449,9 +3449,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000008-2",
@@ -3460,9 +3460,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000008-3",
@@ -3471,9 +3471,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000009-0",
@@ -3482,9 +3482,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000009-1",
@@ -3493,9 +3493,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000009-2",
@@ -3504,9 +3504,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000009-3",
@@ -3515,9 +3515,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000012-0",
@@ -3526,9 +3526,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000012-1",
@@ -3537,9 +3537,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000012-2",
@@ -3548,9 +3548,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000012-3",
@@ -3559,9 +3559,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000014-0",
@@ -3570,9 +3570,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000014-1",
@@ -3581,9 +3581,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000014-2",
@@ -3592,9 +3592,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000014-3",
@@ -3603,9 +3603,9 @@
     "isi": "24",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000019-0",
@@ -3812,9 +3812,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000031-1",
@@ -3823,9 +3823,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000031-3",
@@ -3834,9 +3834,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000034-0",
@@ -3845,9 +3845,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000034-1",
@@ -3856,9 +3856,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000034-3",
@@ -3867,9 +3867,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000036-0",
@@ -3878,9 +3878,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000036-1",
@@ -3889,9 +3889,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000036-3",
@@ -3900,9 +3900,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000038-0",
@@ -3944,9 +3944,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000039-1",
@@ -3955,9 +3955,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000039-3",
@@ -3966,9 +3966,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000040-0",
@@ -3977,9 +3977,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000040-1",
@@ -3988,9 +3988,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000040-3",
@@ -3999,9 +3999,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000042-0",
@@ -4010,9 +4010,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000042-1",
@@ -4021,9 +4021,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000042-3",
@@ -4032,9 +4032,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000050-0",
@@ -4043,9 +4043,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000050-1",
@@ -4054,9 +4054,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000050-3",
@@ -4065,9 +4065,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000051-0",
@@ -4109,9 +4109,9 @@
     "isi": "80",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000053-1",
@@ -4120,9 +4120,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000053-3",
@@ -4131,9 +4131,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000073-0",
@@ -4142,9 +4142,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000073-1",
@@ -4153,9 +4153,9 @@
     "isi": "2",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000073-3",
@@ -4164,9 +4164,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000087-0",
@@ -4461,9 +4461,9 @@
     "isi": "40",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000100-1",
@@ -4472,9 +4472,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000106-0",
@@ -4483,9 +4483,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000106-1",
@@ -4494,9 +4494,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000106-2",
@@ -4505,9 +4505,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000113-0",
@@ -4516,9 +4516,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000113-1",
@@ -4527,9 +4527,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000113-2",
@@ -4538,9 +4538,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000114-0",
@@ -4549,9 +4549,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000114-1",
@@ -4560,9 +4560,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000114-2",
@@ -4571,9 +4571,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000115-0",
@@ -4582,9 +4582,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000115-1",
@@ -4593,9 +4593,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000115-2",
@@ -4604,9 +4604,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000117-0",
@@ -4615,9 +4615,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000117-1",
@@ -4626,9 +4626,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000117-2",
@@ -4637,9 +4637,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000118-0",
@@ -4648,9 +4648,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000118-1",
@@ -4659,9 +4659,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000118-2",
@@ -4670,9 +4670,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000119-0",
@@ -4681,9 +4681,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000119-1",
@@ -4692,9 +4692,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000119-3",
@@ -4703,9 +4703,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000120-0",
@@ -4747,9 +4747,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000126-1",
@@ -4758,9 +4758,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000127-0",
@@ -4769,9 +4769,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000127-1",
@@ -4780,9 +4780,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000128-0",
@@ -4791,9 +4791,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000128-1",
@@ -4802,9 +4802,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000129-0",
@@ -4813,9 +4813,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000129-1",
@@ -4824,9 +4824,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000130-0",
@@ -4835,9 +4835,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000130-1",
@@ -4846,9 +4846,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000133-0",
@@ -4857,9 +4857,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000133-1",
@@ -4868,9 +4868,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000133-2",
@@ -4879,9 +4879,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000137-0",
@@ -4890,9 +4890,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000137-1",
@@ -4901,9 +4901,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000137-3",
@@ -4912,9 +4912,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000139-0",
@@ -4923,9 +4923,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000139-1",
@@ -4934,9 +4934,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000141-0",
@@ -4945,9 +4945,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000141-1",
@@ -4956,9 +4956,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000143-0",
@@ -4967,9 +4967,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000143-1",
@@ -4978,9 +4978,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000143-2",
@@ -4989,9 +4989,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000145-0",
@@ -5000,9 +5000,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000145-1",
@@ -5011,9 +5011,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000145-2",
@@ -5022,9 +5022,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000147-0",
@@ -5066,9 +5066,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000155-1",
@@ -5077,9 +5077,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000157-0",
@@ -5121,9 +5121,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000162-0",
@@ -5132,9 +5132,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000162-1",
@@ -5143,9 +5143,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000162-3",
@@ -5154,9 +5154,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000163-0",
@@ -5165,9 +5165,9 @@
     "isi": "12",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000163-1",
@@ -5176,9 +5176,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000165-0",
@@ -5187,9 +5187,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000165-1",
@@ -5198,9 +5198,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000165-3",
@@ -5209,9 +5209,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000168-0",
@@ -5220,9 +5220,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000168-1",
@@ -5231,9 +5231,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000168-2",
@@ -5242,9 +5242,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000171-0",
@@ -5253,9 +5253,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000171-1",
@@ -5264,9 +5264,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000172-1",
@@ -5275,9 +5275,9 @@
     "isi": "6",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000172-2",
@@ -5286,9 +5286,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000173-0",
@@ -5297,9 +5297,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000173-1",
@@ -5308,9 +5308,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000173-2",
@@ -5319,9 +5319,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000174-0",
@@ -5330,9 +5330,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000174-1",
@@ -5341,9 +5341,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000174-2",
@@ -5352,9 +5352,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000180-0",
@@ -5363,9 +5363,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000180-1",
@@ -5374,9 +5374,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000185-0",
@@ -5385,9 +5385,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000185-1",
@@ -5396,9 +5396,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000186-0",
@@ -5407,9 +5407,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000186-1",
@@ -5418,9 +5418,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000188-0",
@@ -5429,9 +5429,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000188-1",
@@ -5440,9 +5440,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000191-0",
@@ -5451,9 +5451,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000191-1",
@@ -5462,9 +5462,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000191-3",
@@ -5473,9 +5473,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000193-0",
@@ -5484,9 +5484,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000193-1",
@@ -5495,9 +5495,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000193-3",
@@ -5506,9 +5506,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000200-0",
@@ -5517,9 +5517,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000200-1",
@@ -5528,9 +5528,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000200-2",
@@ -5539,9 +5539,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000206-0",
@@ -5550,9 +5550,9 @@
     "isi": "60",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000206-1",
@@ -5561,9 +5561,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000206-3",
@@ -5572,9 +5572,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000228-0",
@@ -5616,9 +5616,9 @@
     "isi": "500",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000230-1",
@@ -5627,9 +5627,9 @@
     "isi": "50",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000230-3",
@@ -5638,9 +5638,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000231-0",
@@ -5649,9 +5649,9 @@
     "isi": "400",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000231-1",
@@ -5660,9 +5660,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000231-3",
@@ -5671,9 +5671,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000233-0",
@@ -5682,9 +5682,9 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000233-1",
@@ -5693,9 +5693,9 @@
     "isi": "24",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000233-2",
@@ -5704,9 +5704,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000235-0",
@@ -5748,9 +5748,9 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000237-1",
@@ -5759,9 +5759,9 @@
     "isi": "24",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000237-2",
@@ -5770,9 +5770,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000239-0",
@@ -5781,9 +5781,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000239-1",
@@ -5792,9 +5792,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000243-0",
@@ -5803,9 +5803,9 @@
     "isi": "120",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000243-1",
@@ -5814,9 +5814,9 @@
     "isi": "12",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000243-2",
@@ -5825,9 +5825,9 @@
     "isi": "4",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000243-3",
@@ -5836,9 +5836,9 @@
     "isi": "1",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000248-0",
@@ -5847,9 +5847,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000248-1",
@@ -5858,9 +5858,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000248-3",
@@ -5869,9 +5869,9 @@
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000249-0",
@@ -5880,9 +5880,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000249-1",
@@ -5891,9 +5891,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000249-3",
@@ -5902,9 +5902,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000250-0",
@@ -5913,9 +5913,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000250-1",
@@ -5924,9 +5924,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000250-3",
@@ -5935,9 +5935,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000251-0",
@@ -5946,9 +5946,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000251-1",
@@ -5957,9 +5957,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000251-3",
@@ -5968,9 +5968,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000252-0",
@@ -5979,9 +5979,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000252-1",
@@ -5990,9 +5990,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000252-3",
@@ -6001,9 +6001,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000253-0",
@@ -6012,9 +6012,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000253-1",
@@ -6023,9 +6023,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000253-3",
@@ -6034,9 +6034,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000254-0",
@@ -6045,9 +6045,9 @@
     "isi": "150",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000254-1",
@@ -6056,9 +6056,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000254-3",
@@ -6067,9 +6067,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000259-0",
@@ -6078,9 +6078,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000259-1",
@@ -6089,9 +6089,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000259-2",
@@ -6100,9 +6100,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000260-1",
@@ -6111,9 +6111,9 @@
     "isi": "1",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000261-1",
@@ -6122,9 +6122,9 @@
     "isi": "1",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000262-1",
@@ -6133,9 +6133,9 @@
     "isi": "1",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000263-1",
@@ -6144,9 +6144,9 @@
     "isi": "1",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000264-1",
@@ -6155,9 +6155,9 @@
     "isi": "1",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000341-0",
@@ -6166,9 +6166,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000341-1",
@@ -6177,9 +6177,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000341-2",
@@ -6188,9 +6188,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000342-0",
@@ -6199,9 +6199,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000342-1",
@@ -6210,9 +6210,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000342-2",
@@ -6221,9 +6221,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000343-0",
@@ -6232,9 +6232,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000343-1",
@@ -6243,9 +6243,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000343-2",
@@ -6254,9 +6254,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000349-1",
@@ -6265,9 +6265,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000349-3",
@@ -6276,9 +6276,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000351-0",
@@ -6287,9 +6287,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000351-1",
@@ -6298,9 +6298,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000351-2",
@@ -6309,9 +6309,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000352-0",
@@ -6320,9 +6320,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000352-1",
@@ -6331,9 +6331,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000352-2",
@@ -6342,9 +6342,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000353-0",
@@ -6353,9 +6353,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000353-1",
@@ -6364,9 +6364,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000353-2",
@@ -6375,9 +6375,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000359-0",
@@ -6386,9 +6386,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000359-1",
@@ -6397,9 +6397,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000359-2",
@@ -6408,9 +6408,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000361-0",
@@ -6419,9 +6419,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000361-1",
@@ -6430,9 +6430,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000361-2",
@@ -6441,9 +6441,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000362-0",
@@ -6452,9 +6452,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000362-1",
@@ -6463,9 +6463,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000362-2",
@@ -6474,9 +6474,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000363-0",
@@ -6485,9 +6485,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000363-1",
@@ -6496,9 +6496,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000363-2",
@@ -6507,9 +6507,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000364-0",
@@ -6518,9 +6518,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000364-1",
@@ -6529,9 +6529,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000364-2",
@@ -6540,9 +6540,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000365-0",
@@ -6551,9 +6551,9 @@
     "isi": "36",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000365-1",
@@ -6562,9 +6562,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000367-0",
@@ -6573,9 +6573,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000367-1",
@@ -6584,9 +6584,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000367-2",
@@ -6595,9 +6595,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000368-0",
@@ -6606,9 +6606,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000368-1",
@@ -6617,9 +6617,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000368-2",
@@ -6628,9 +6628,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000369-0",
@@ -6639,9 +6639,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000369-1",
@@ -6650,9 +6650,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000369-3",
@@ -6661,9 +6661,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000370-0",
@@ -6672,9 +6672,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000370-1",
@@ -6683,9 +6683,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000370-3",
@@ -6694,9 +6694,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000378-0",
@@ -6705,9 +6705,9 @@
     "isi": "25",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000378-1",
@@ -6716,9 +6716,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000379-0",
@@ -6727,9 +6727,9 @@
     "isi": "25",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000379-1",
@@ -6738,9 +6738,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000380-0",
@@ -6749,9 +6749,9 @@
     "isi": "25",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000380-1",
@@ -6760,9 +6760,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000381-0",
@@ -6771,9 +6771,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000381-1",
@@ -6782,9 +6782,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000381-2",
@@ -6793,9 +6793,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000382-0",
@@ -6804,9 +6804,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000382-1",
@@ -6815,9 +6815,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000382-2",
@@ -6826,9 +6826,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000383-0",
@@ -6837,9 +6837,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000383-1",
@@ -6848,9 +6848,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000383-2",
@@ -6859,9 +6859,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000385-1",
@@ -6870,9 +6870,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000386-1",
@@ -6881,9 +6881,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000387-1",
@@ -6892,9 +6892,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000390-0",
@@ -6903,9 +6903,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000390-1",
@@ -6914,9 +6914,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000392-0",
@@ -6925,9 +6925,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000392-1",
@@ -6936,9 +6936,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000393-0",
@@ -6947,9 +6947,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000393-1",
@@ -6958,9 +6958,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000395-0",
@@ -7002,9 +7002,9 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000396-1",
@@ -7013,9 +7013,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000397-0",
@@ -7024,9 +7024,9 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000397-1",
@@ -7035,9 +7035,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000398-0",
@@ -7046,9 +7046,9 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000398-1",
@@ -7057,9 +7057,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000401-0",
@@ -7068,9 +7068,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000401-1",
@@ -7079,9 +7079,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000402-0",
@@ -7090,9 +7090,9 @@
     "isi": "48",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000402-1",
@@ -7101,9 +7101,9 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000402-2",
@@ -7112,9 +7112,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000403-0",
@@ -7123,9 +7123,9 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000403-1",
@@ -7134,9 +7134,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000421-0",
@@ -7145,9 +7145,9 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000421-1",
@@ -7156,9 +7156,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000422-0",
@@ -7167,9 +7167,9 @@
     "isi": "20",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000422-1",
@@ -7178,9 +7178,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000422-2",
@@ -7189,9 +7189,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000423-0",
@@ -7200,9 +7200,9 @@
     "isi": "20",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000423-1",
@@ -7211,9 +7211,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000423-2",
@@ -7222,9 +7222,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000424-0",
@@ -7233,9 +7233,9 @@
     "isi": "20",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000424-1",
@@ -7244,9 +7244,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000424-2",
@@ -7255,9 +7255,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000426-0",
@@ -7266,9 +7266,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000426-1",
@@ -7277,9 +7277,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000426-2",
@@ -7288,9 +7288,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000434-0",
@@ -7299,9 +7299,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000434-1",
@@ -7310,9 +7310,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000434-2",
@@ -7321,9 +7321,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000435-0",
@@ -7332,9 +7332,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000435-1",
@@ -7343,9 +7343,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000435-2",
@@ -7354,9 +7354,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000437-0",
@@ -7365,9 +7365,9 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000437-1",
@@ -7376,9 +7376,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000438-0",
@@ -7387,9 +7387,9 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000438-1",
@@ -7398,9 +7398,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000439-0",
@@ -7409,9 +7409,9 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000439-1",
@@ -7420,9 +7420,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000440-0",
@@ -7431,9 +7431,9 @@
     "isi": "12",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000440-1",
@@ -7442,9 +7442,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000441-0",
@@ -7453,9 +7453,9 @@
     "isi": "12",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000441-1",
@@ -7464,9 +7464,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000442-0",
@@ -7475,9 +7475,9 @@
     "isi": "12",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000442-1",
@@ -7486,9 +7486,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000446-0",
@@ -7497,9 +7497,9 @@
     "isi": "12",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000446-1",
@@ -7508,9 +7508,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000448-0",
@@ -7519,9 +7519,9 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000448-1",
@@ -7530,9 +7530,9 @@
     "isi": "20",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000448-2",
@@ -7541,9 +7541,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000449-0",
@@ -7552,9 +7552,9 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000449-1",
@@ -7563,9 +7563,9 @@
     "isi": "20",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000449-2",
@@ -7574,9 +7574,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000450-0",
@@ -7585,9 +7585,9 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000450-1",
@@ -7596,9 +7596,9 @@
     "isi": "20",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000450-2",
@@ -7607,9 +7607,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000451-0",
@@ -7618,9 +7618,9 @@
     "isi": "12",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000451-1",
@@ -7629,9 +7629,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000453-0",
@@ -7640,9 +7640,9 @@
     "isi": "20",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000453-1",
@@ -7651,9 +7651,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000455-0",
@@ -7662,9 +7662,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000455-1",
@@ -7673,9 +7673,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000455-3",
@@ -7684,9 +7684,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000456-0",
@@ -7695,9 +7695,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000456-1",
@@ -7706,9 +7706,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000456-3",
@@ -7717,9 +7717,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000457-0",
@@ -7728,9 +7728,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000457-1",
@@ -7739,9 +7739,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000457-3",
@@ -7750,9 +7750,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000459-0",
@@ -7761,9 +7761,9 @@
     "isi": "25",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000459-1",
@@ -7772,9 +7772,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000460-0",
@@ -7783,9 +7783,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000460-1",
@@ -7794,9 +7794,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000460-3",
@@ -7805,9 +7805,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000461-0",
@@ -7816,9 +7816,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000461-1",
@@ -7827,9 +7827,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000461-3",
@@ -7838,9 +7838,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000462-0",
@@ -7849,9 +7849,9 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000462-1",
@@ -7860,9 +7860,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000462-3",
@@ -7871,9 +7871,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000467-0",
@@ -7882,9 +7882,9 @@
     "isi": "12",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000467-1",
@@ -7893,9 +7893,9 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000468-0",
@@ -7904,9 +7904,9 @@
     "isi": "40",
     "hirarki": "4",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000468-1",
@@ -7915,9 +7915,9 @@
     "isi": "5",
     "hirarki": "5",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000468-2",
@@ -7926,9 +7926,9 @@
     "isi": "1",
     "hirarki": "6",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000469-1",
@@ -7937,9 +7937,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000470-1",
@@ -7948,9 +7948,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000471-0",
@@ -7959,9 +7959,9 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000471-1",
@@ -7970,9 +7970,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000471-2",
@@ -7981,9 +7981,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000472-0",
@@ -7992,9 +7992,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000472-1",
@@ -8003,9 +8003,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000472-2",
@@ -8014,9 +8014,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000473-0",
@@ -8025,9 +8025,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000473-1",
@@ -8036,9 +8036,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000473-2",
@@ -8047,9 +8047,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000474-0",
@@ -8058,9 +8058,9 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000474-1",
@@ -8069,9 +8069,9 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "A0000474-2",
@@ -8080,9 +8080,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000001-0",
@@ -8091,9 +8091,9 @@
     "isi": "150",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000001-1",
@@ -8102,9 +8102,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000001-3",
@@ -8113,9 +8113,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000002-0",
@@ -8124,9 +8124,9 @@
     "isi": "150",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000002-1",
@@ -8135,9 +8135,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000002-3",
@@ -8146,9 +8146,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000003-0",
@@ -8157,9 +8157,9 @@
     "isi": "150",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000003-1",
@@ -8168,9 +8168,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000003-3",
@@ -8179,9 +8179,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000004-0",
@@ -8190,9 +8190,9 @@
     "isi": "150",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000004-1",
@@ -8201,9 +8201,9 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000004-3",
@@ -8212,9 +8212,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000005-0",
@@ -8223,9 +8223,9 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000005-1",
@@ -8234,9 +8234,9 @@
     "isi": "30",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000005-3",
@@ -8245,9 +8245,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000006-0",
@@ -8256,9 +8256,9 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000006-1",
@@ -8267,9 +8267,9 @@
     "isi": "30",
     "hirarki": "2",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "AP000006-3",
@@ -8278,9 +8278,9 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000005-1",
@@ -8289,9 +8289,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000006-1",
@@ -8300,9 +8300,9 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   },
   {
     "kode": "J0000007-1",
@@ -8311,8 +8311,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-    "uom1": "",
-    "uom2": "",
-    "uom3": ""
+    "uom1": "0",
+    "uom2": "0",
+    "uom3": "0"
   }
 ]

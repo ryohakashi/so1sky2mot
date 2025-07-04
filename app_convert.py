@@ -28,10 +28,23 @@ print(f"Singkatan: {json01['prefix_outlet']}")
 # %%
 df_conv = pd.read_json('./template/02.json')
 df_conv.set_index("kode", inplace=True)
+df_conv["hirarki"] = pd.to_numeric(df_conv["hirarki"], downcast="integer", errors='coerce')
+df_conv["uom1"] = pd.to_numeric(df_conv["uom1"], downcast="integer", errors='coerce')
+df_conv["uom2"] = pd.to_numeric(df_conv["uom2"], downcast="integer", errors='coerce')
+df_conv["uom3"] = pd.to_numeric(df_conv["uom3"], downcast="integer", errors='coerce')
+print(df_conv['hirarki'].dtype)
+print(df_conv.dtypes)
 # df_conv
 
 # %%
 df_so1sky_merge = pd.merge(df_so1sky, df_conv, how='left', left_on='PRODUK ID', right_on='kode')
+print(df_so1sky_merge.dtypes)
+df_so1sky_merge.loc[df_so1sky_merge['hirarki'] == 1, 'QTY'] = df_so1sky_merge['QTY'] * df_so1sky_merge['uom1']
+df_so1sky_merge.loc[df_so1sky_merge['hirarki'] == 1, 'HARGA'] = df_so1sky_merge['HARGA'] / ((100+json01['ppn_order'])/100)
+df_so1sky_merge.loc[df_so1sky_merge['hirarki'] == 2, 'QTY'] = df_so1sky_merge['QTY'] * df_so1sky_merge['uom2']
+df_so1sky_merge.loc[df_so1sky_merge['hirarki'] == 2, 'HARGA'] = (df_so1sky_merge['HARGA']  * (df_so1sky_merge['uom1'] / df_so1sky_merge['uom2'])) / ((100+json01['ppn_order'])/100)
+df_so1sky_merge.loc[df_so1sky_merge['hirarki'] == 3, 'QTY'] = df_so1sky_merge['QTY'] * df_so1sky_merge['uom3']
+df_so1sky_merge.loc[df_so1sky_merge['hirarki'] == 3, 'HARGA'] = df_so1sky_merge['HARGA'] * df_so1sky_merge['uom1'] / ((100+json01['ppn_order'])/100)
 print(df_so1sky_merge)
 
 # %%
@@ -41,18 +54,20 @@ for index, row in df_so1sky_merge.iterrows():
     # df_conv._get_value(row["KD PRODUK"], "kodedist")
     # print(type(row["QTY"]*df_conv._get_value(row["KD PRODUK"], "isi")))
     
-    match (row['hirarki']):
-        case 1:
-            row['QTY'] = row['QTY'] * row['uom1']
-            row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
-        case 2:
-            row['QTY'] = row['QTY'] * row['uom2']
-            row['HARGA'] = row['HARGA'] * (row['uom1'] / row['uom2'])
-            row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
-        case 3:
-            row['QTY'] = row['QTY'] * row['uom3']
-            row['HARGA'] = row['HARGA'] * row['uom1']
-            row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+    # match (row['hirarki']):
+    #     case 1:
+    #         row['QTY'] = row['QTY'] * row['uom1']
+    #         row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+    #     case 2:
+    #         row['QTY'] = row['QTY'] * row['uom2']
+    #         row['HARGA'] = row['HARGA'] * (row['uom1'] / row['uom2'])
+    #         row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+    #     case 3:
+    #         row['QTY'] = row['QTY'] * row['uom3']
+    #         row['HARGA'] = row['HARGA'] * row['uom1']
+    #         row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+    # print(f"Harga setelah match: {row['HARGA']}")
+    
     
     if row["AMOUNT"] > 0:
         dict_item = {
