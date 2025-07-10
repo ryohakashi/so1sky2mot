@@ -28,7 +28,15 @@ print(f"Singkatan: {json01['prefix_outlet']}")
 # %%
 df_conv = pd.read_json('./template/02.json')
 df_conv.set_index("kode", inplace=True)
-# df_conv
+df_conv = df_conv.astype(
+    {
+        'hirarki': int,
+        'uom1': int,
+        'uom2': int,
+        'uom3': int,
+    }
+)
+print(df_conv.dtypes)
 
 # %%
 df_so1sky_merge = pd.merge(df_so1sky, df_conv, how='left', left_on='PRODUK ID', right_on='kode')
@@ -41,19 +49,26 @@ for index, row in df_so1sky_merge.iterrows():
     # df_conv._get_value(row["KD PRODUK"], "kodedist")
     # print(type(row["QTY"]*df_conv._get_value(row["KD PRODUK"], "isi")))
     
+    print(f"=>{row['QTY']}")
+    print(f"=>{row['HARGA']}")
     match (row['hirarki']):
-        case 1:
+        case 1 | "1":
             row['QTY'] = row['QTY'] * row['uom1']
             row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
-        case 2:
+            print("hirarki=>1")
+        case 2 | "2":
             row['QTY'] = row['QTY'] * row['uom2']
             row['HARGA'] = row['HARGA'] * (row['uom1'] / row['uom2'])
             row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
-        case 3:
+        case 3 | "3":
             row['QTY'] = row['QTY'] * row['uom3']
             row['HARGA'] = row['HARGA'] * row['uom1']
             row['HARGA'] = row['HARGA'] / ((100+json01['ppn_order'])/100)
+        case _:
+            print(row['hirarki'])
     
+    print(row)
+
     if row["AMOUNT"] > 0:
         dict_item = {
             "Nd6tran": "ND6TRAN",
