@@ -2123,6 +2123,8 @@
     "uom3": "1"
   },
   {
+<<<<<<< HEAD
+=======
     "kode": "A0000425-1",
     "nama": "- ACC - BERGAMOT TEA (1 BOS = 1 PCS)",
     "satuan": "BOS",
@@ -3256,31 +3258,49 @@
     "uom3": "1"
   },
   {
+>>>>>>> main
     "kode": "A0000001-0",
     "nama": "BI - BOTOL HIJAU LUSINAN 8 GR (1 BAL = 10 BOS)",
     "satuan": "BAL",
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000001-1",
     "nama": "BI - BOTOL HIJAU LUSINAN 8 GR (1 BOS = 10 PAK )",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000001-2",
     "nama": "BI - BOTOL HIJAU LUSINAN 8 GR (1 PAK =10 PCS )",
     "satuan": "PAK",
+<<<<<<< HEAD
+    "isi": "1",
+    "hirarki": "3",
+    "kodedist": "",
+    "uom1": "100",
+    "uom2": "10",
+=======
     "isi": "24",
     "hirarki": "3",
     "kodedist": "",
@@ -3517,6 +3537,7 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3526,28 +3547,42 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000012-1",
     "nama": "SDML - SADEL MERAH LUSINAN 8 GR (1 BOS = 10 PAK )",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000012-2",
     "nama": "SDML - SADEL MERAH LUSINAN 8 GR (1 PAK = 10 PCS )",
     "satuan": "PAK",
-    "isi": "24",
+    "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
@@ -3561,6 +3596,7 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3570,28 +3606,42 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000014-1",
     "nama": "TPML - TEROMPET MERAH LUSINAN 8 GR (1 BOS = 10 PAK )",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000014-2",
     "nama": "TPML - TEROMPET MERAH LUSINAN 8 GR (1 PAK = 10 PCS )",
     "satuan": "PAK",
-    "isi": "24",
+    "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
@@ -3605,6 +3655,7 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3613,7 +3664,7 @@
     "satuan": "BAL",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "504002",
+    "kodedist": "0504002",
     "uom1": "100",
     "uom2": "5",
     "uom3": "1"
@@ -3624,7 +3675,7 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-    "kodedist": "504002",
+    "kodedist": "0504002",
     "uom1": "100",
     "uom2": "5",
     "uom3": "1"
@@ -3635,7 +3686,7 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "504002",
+    "kodedist": "0504002",
     "uom1": "100",
     "uom2": "5",
     "uom3": "1"
@@ -3646,7 +3697,7 @@
     "satuan": "BAL",
     "isi": "200",
     "hirarki": "1",
-    "kodedist": "504001",
+    "kodedist": "0504001",
     "uom1": "200",
     "uom2": "10",
     "uom3": "1"
@@ -3657,7 +3708,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "504001",
+    "kodedist": "0504001",
     "uom1": "200",
     "uom2": "10",
     "uom3": "1"
@@ -3668,7 +3719,7 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "504001",
+    "kodedist": "0504001",
     "uom1": "200",
     "uom2": "10",
     "uom3": "1"
@@ -3679,7 +3730,7 @@
     "satuan": "BAL",
     "isi": "200",
     "hirarki": "1",
-    "kodedist": "504003",
+    "kodedist": "0504003",
     "uom1": "200",
     "uom2": "10",
     "uom3": "1"
@@ -3690,7 +3741,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "504003",
+    "kodedist": "0504003",
     "uom1": "200",
     "uom2": "10",
     "uom3": "1"
@@ -3701,7 +3752,7 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "504003",
+    "kodedist": "0504003",
     "uom1": "200",
     "uom2": "10",
     "uom3": "1"
@@ -3745,7 +3796,7 @@
     "satuan": "BAL",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "",
+    "kodedist": "0503026",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -3756,7 +3807,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "",
+    "kodedist": "0503026",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -3767,7 +3818,7 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "",
+    "kodedist": "0503026",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -3811,9 +3862,15 @@
     "satuan": "BAL",
     "isi": "200",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503028",
+    "uom1": "200",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3822,9 +3879,15 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503028",
+    "uom1": "200",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3833,9 +3896,15 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503028",
+    "uom1": "200",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3845,8 +3914,13 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "200",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3856,8 +3930,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "200",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3867,8 +3946,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "200",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3878,8 +3962,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3889,8 +3978,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3900,8 +3994,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3910,7 +4009,7 @@
     "satuan": "BAL",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "505002",
+    "kodedist": "0505003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -3921,7 +4020,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "505002",
+    "kodedist": "0505003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -3932,7 +4031,7 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "505002",
+    "kodedist": "0505003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -3944,8 +4043,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3955,8 +4059,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3966,8 +4075,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3977,8 +4091,13 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3988,8 +4107,13 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -3999,8 +4123,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4010,8 +4139,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4021,8 +4155,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4032,8 +4171,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4043,8 +4187,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4054,8 +4203,13 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4065,8 +4219,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4075,7 +4234,7 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "503005",
+    "kodedist": "0503005",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4086,7 +4245,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "503005",
+    "kodedist": "0503005",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4097,7 +4256,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "503005",
+    "kodedist": "0503005",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4109,8 +4268,13 @@
     "isi": "80",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "80",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4120,8 +4284,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "80",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4131,8 +4300,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "80",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4142,8 +4316,13 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+    "uom2": "2",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4153,8 +4332,13 @@
     "isi": "2",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+    "uom2": "2",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4164,8 +4348,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+    "uom2": "2",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4174,7 +4363,7 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "501002",
+    "kodedist": "0501002",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4185,7 +4374,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "501002",
+    "kodedist": "0501002",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4196,7 +4385,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "501002",
+    "kodedist": "0501002",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4207,7 +4396,7 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "502001",
+    "kodedist": "0502001",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4218,7 +4407,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "502001",
+    "kodedist": "0502001",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4229,7 +4418,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "502001",
+    "kodedist": "0502001",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4240,7 +4429,7 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "501003",
+    "kodedist": "0501003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4251,7 +4440,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "501003",
+    "kodedist": "0501003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4262,7 +4451,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "501003",
+    "kodedist": "0501003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4273,7 +4462,7 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-    "kodedist": "501004",
+    "kodedist": "0501004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4284,7 +4473,7 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-    "kodedist": "501004",
+    "kodedist": "0501004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4295,7 +4484,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "501004",
+    "kodedist": "0501004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4306,7 +4495,7 @@
     "satuan": "CAR",
     "isi": "36",
     "hirarki": "1",
-    "kodedist": "501005",
+    "kodedist": "0501005",
     "uom1": "36",
     "uom2": "1",
     "uom3": "1"
@@ -4317,7 +4506,7 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
-    "kodedist": "501005",
+    "kodedist": "0501005",
     "uom1": "36",
     "uom2": "1",
     "uom3": "1"
@@ -4328,7 +4517,7 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "502003",
+    "kodedist": "0502003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4339,7 +4528,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "502003",
+    "kodedist": "0502003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4350,7 +4539,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "502003",
+    "kodedist": "0502003",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4361,7 +4550,7 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "502002",
+    "kodedist": "0502002",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4372,7 +4561,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "502002",
+    "kodedist": "0502002",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4383,7 +4572,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "502002",
+    "kodedist": "0502002",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -4394,7 +4583,7 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-    "kodedist": "503003",
+    "kodedist": "0503003",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4405,7 +4594,7 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-    "kodedist": "503003",
+    "kodedist": "0503003",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4416,7 +4605,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "503003",
+    "kodedist": "0503003",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4427,7 +4616,7 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-    "kodedist": "503004",
+    "kodedist": "0503004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4438,7 +4627,7 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-    "kodedist": "503004",
+    "kodedist": "0503004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4449,7 +4638,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "503004",
+    "kodedist": "0503004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4461,7 +4650,11 @@
     "isi": "40",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "40",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4472,7 +4665,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "40",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4483,8 +4680,13 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4494,8 +4696,13 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4505,8 +4712,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4516,8 +4728,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4527,8 +4744,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4538,8 +4760,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4549,8 +4776,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4560,8 +4792,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4571,8 +4808,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4582,8 +4824,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4593,8 +4840,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4604,8 +4856,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4615,8 +4872,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4626,8 +4888,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4637,8 +4904,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4648,8 +4920,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4659,8 +4936,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4670,8 +4952,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4680,9 +4967,15 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503007",
+    "uom1": "100",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4691,9 +4984,15 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503007",
+    "uom1": "100",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4702,9 +5001,15 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503007",
+    "uom1": "100",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4713,7 +5018,7 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-    "kodedist": "504004",
+    "kodedist": "0504004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4724,7 +5029,7 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-    "kodedist": "504004",
+    "kodedist": "0504004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4735,7 +5040,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "504004",
+    "kodedist": "0504004",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -4747,7 +5052,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4758,7 +5067,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4769,7 +5082,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4780,7 +5097,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4791,7 +5112,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4802,7 +5127,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4813,7 +5142,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4824,7 +5157,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4835,7 +5172,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4846,7 +5187,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4857,8 +5202,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4868,8 +5218,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4879,8 +5234,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4890,8 +5250,13 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4901,8 +5266,13 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4912,8 +5282,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4923,7 +5298,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4934,7 +5313,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4945,7 +5328,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4956,7 +5343,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4967,8 +5358,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4978,8 +5374,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -4989,8 +5390,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5000,8 +5406,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5011,8 +5422,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5022,8 +5438,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5032,7 +5453,7 @@
     "satuan": "BAL",
     "isi": "100",
     "hirarki": "1",
-    "kodedist": "505001",
+    "kodedist": "0505001",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -5043,7 +5464,7 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-    "kodedist": "505001",
+    "kodedist": "0505001",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -5054,7 +5475,7 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "505001",
+    "kodedist": "0505001",
     "uom1": "100",
     "uom2": "10",
     "uom3": "1"
@@ -5065,8 +5486,13 @@
     "satuan": "CAR",
     "isi": "10",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503001",
+    "uom1": "10",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5076,8 +5502,13 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503001",
+    "uom1": "10",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5087,7 +5518,7 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-    "kodedist": "501006",
+    "kodedist": "0501006",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -5098,7 +5529,7 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-    "kodedist": "501006",
+    "kodedist": "0501006",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -5109,7 +5540,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "501006",
+    "kodedist": "0501006",
     "uom1": "50",
     "uom2": "5",
     "uom3": "1"
@@ -5132,8 +5563,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5143,8 +5579,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5154,8 +5595,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5164,8 +5610,13 @@
     "satuan": "CAR",
     "isi": "12",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0504006",
+    "uom1": "12",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5175,8 +5626,13 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0504006",
+    "uom1": "12",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5187,8 +5643,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5198,8 +5659,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5209,8 +5675,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5220,8 +5691,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5231,8 +5707,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5242,8 +5723,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5253,7 +5739,11 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5264,7 +5754,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5275,7 +5769,11 @@
     "isi": "6",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "6",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5286,7 +5784,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "6",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5297,8 +5799,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5308,8 +5815,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5319,8 +5831,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5330,8 +5847,13 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5341,8 +5863,13 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5352,17 +5879,26 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+    "uom2": "6",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000180-0",
     "nama": "TBB5PV - TEH - CELUP POCI VANILLA 5 (1 CAR = 10 BOS)",
     "satuan": "CAR",
-    "isi": "10",
+    "isi": "200",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503002",
+=======
     "kodedist": "",
+>>>>>>> main
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
@@ -5371,9 +5907,13 @@
     "kode": "A0000180-1",
     "nama": "TBB5PV - TEH - CELUP POCI VANILLA 5 (1 BOS = 20 PCS)",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "20",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503002",
+=======
     "kodedist": "",
+>>>>>>> main
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
@@ -5382,22 +5922,34 @@
     "kode": "A0000185-0",
     "nama": "TBB5 - TEH - CELUP SOSRO 5 (TBB 5) (1 CAR = 10 BOS)",
     "satuan": "CAR",
-    "isi": "10",
+    "isi": "200",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0501001",
+    "uom1": "200",
+    "uom2": "20",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000185-1",
     "nama": "TBB5 - TEH - CELUP SOSRO 5 (TBB 5) (1 BOS = 20 PCS)",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "20",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0501001",
+    "uom1": "200",
+    "uom2": "20",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5407,7 +5959,11 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5418,7 +5974,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5429,7 +5989,11 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5440,7 +6004,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5451,8 +6019,13 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5462,8 +6035,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5473,8 +6051,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "100",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5484,8 +6067,13 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "200",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5495,8 +6083,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "200",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5506,8 +6099,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "200",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5517,8 +6115,13 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5528,8 +6131,13 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5539,8 +6147,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5550,8 +6163,13 @@
     "isi": "60",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "60",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5561,8 +6179,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "60",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5572,8 +6195,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "60",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5582,7 +6210,7 @@
     "satuan": "CAR",
     "isi": "240",
     "hirarki": "1",
-    "kodedist": "501001",
+    "kodedist": "0501001",
     "uom1": "240",
     "uom2": "24",
     "uom3": "1"
@@ -5593,7 +6221,7 @@
     "satuan": "BOS",
     "isi": "24",
     "hirarki": "2",
-    "kodedist": "501001",
+    "kodedist": "0501001",
     "uom1": "240",
     "uom2": "24",
     "uom3": "1"
@@ -5604,7 +6232,7 @@
     "satuan": "SCH",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "501001",
+    "kodedist": "0501001",
     "uom1": "240",
     "uom2": "24",
     "uom3": "1"
@@ -5616,8 +6244,13 @@
     "isi": "500",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "500",
+    "uom2": "50",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5627,8 +6260,13 @@
     "isi": "50",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "500",
+    "uom2": "50",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5638,8 +6276,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "500",
+    "uom2": "50",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5649,8 +6292,13 @@
     "isi": "400",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "400",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5660,8 +6308,13 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "400",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5671,8 +6324,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "400",
+    "uom2": "10",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5682,8 +6340,13 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "240",
+    "uom2": "24",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5693,8 +6356,13 @@
     "isi": "24",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "240",
+    "uom2": "24",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5704,8 +6372,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "240",
+    "uom2": "24",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5714,7 +6387,7 @@
     "satuan": "CAR",
     "isi": "240",
     "hirarki": "1",
-    "kodedist": "503002",
+    "kodedist": "0503002",
     "uom1": "240",
     "uom2": "24",
     "uom3": "1"
@@ -5725,7 +6398,7 @@
     "satuan": "BOS",
     "isi": "24",
     "hirarki": "2",
-    "kodedist": "503002",
+    "kodedist": "0503002",
     "uom1": "240",
     "uom2": "24",
     "uom3": "1"
@@ -5736,7 +6409,7 @@
     "satuan": "SCH",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "503002",
+    "kodedist": "0503002",
     "uom1": "240",
     "uom2": "24",
     "uom3": "1"
@@ -5748,8 +6421,13 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "240",
+    "uom2": "24",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5759,8 +6437,13 @@
     "isi": "24",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "240",
+    "uom2": "24",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5770,8 +6453,13 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "240",
+    "uom2": "24",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5781,7 +6469,11 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5792,7 +6484,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "24",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5802,9 +6498,15 @@
     "satuan": "CAR",
     "isi": "120",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503012",
+    "uom1": "120",
+    "uom2": "12",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5813,15 +6515,28 @@
     "satuan": "BOS",
     "isi": "12",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503012",
+    "uom1": "120",
+    "uom2": "12",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000243-2",
     "nama": "PVJ10 - POCI VANILA KANTONG JUMBO 10 GR (1 SCH = 4 PCS )",
     "satuan": "SCH",
+<<<<<<< HEAD
+    "isi": "1",
+    "hirarki": "3",
+    "kodedist": "0503012",
+    "uom1": "120",
+    "uom2": "12",
+=======
     "isi": "4",
     "hirarki": "3",
     "kodedist": "",
@@ -5970,6 +6685,7 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5978,9 +6694,15 @@
     "satuan": "CAR",
     "isi": "200",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0505002",
+    "uom1": "200",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -5989,9 +6711,15 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0505002",
+    "uom1": "200",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6000,9 +6728,15 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0505002",
+    "uom1": "200",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6231,9 +6965,15 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503011",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6242,9 +6982,15 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503011",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6253,6 +6999,11 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503011",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
@@ -6377,6 +7128,7 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6386,8 +7138,13 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6397,8 +7154,13 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6408,6 +7170,10 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "50",
+    "uom2": "5",
+=======
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
@@ -6894,50 +7660,75 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000390-0",
     "nama": "TBB15PV - POCI CELUP VANILA 15 (1 CAR = 10 BOS)",
     "satuan": "CAR",
-    "isi": "10",
+    "isi": "120",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503009",
+    "uom1": "120",
+    "uom2": "12",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000390-1",
     "nama": "TBB15PV - POCI CELUP VANILA 15 (1 BOS = 12 SCH )",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "12",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503009",
+    "uom1": "120",
+    "uom2": "12",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000392-0",
     "nama": "TPP15 - POCI PREMIUM SACHET 15 (1 CAR = 10 BOS)",
     "satuan": "CAR",
-    "isi": "10",
+    "isi": "120",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503017",
+    "uom1": "120",
+    "uom2": "12",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000392-1",
     "nama": "TPP15 - POCI PREMIUM SACHET 15 (1 BOS = 12 SCH )",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "12",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503017",
+    "uom1": "120",
+    "uom2": "12",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -6947,7 +7738,11 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -6958,7 +7753,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -6968,7 +7767,7 @@
     "satuan": "KG",
     "isi": "20",
     "hirarki": "1",
-    "kodedist": "504004",
+    "kodedist": "0504004",
     "uom1": "20",
     "uom2": "5",
     "uom3": "1"
@@ -6979,7 +7778,7 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-    "kodedist": "504004",
+    "kodedist": "0504004",
     "uom1": "20",
     "uom2": "5",
     "uom3": "1"
@@ -6990,7 +7789,7 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-    "kodedist": "504004",
+    "kodedist": "0504004",
     "uom1": "20",
     "uom2": "5",
     "uom3": "1"
@@ -7002,7 +7801,11 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7013,7 +7816,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7024,7 +7831,11 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7035,7 +7846,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7046,7 +7861,11 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7057,7 +7876,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7068,7 +7891,11 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7079,7 +7906,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7089,9 +7920,15 @@
     "satuan": "CAR",
     "isi": "48",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0504007",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7100,9 +7937,15 @@
     "satuan": "BOS",
     "isi": "6",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0504007",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7111,9 +7954,15 @@
     "satuan": "PAK",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0504007",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7123,7 +7972,11 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7134,7 +7987,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "4",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7145,7 +8002,11 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7156,7 +8017,11 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
+<<<<<<< HEAD
+    "uom1": "10",
+=======
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7265,9 +8130,15 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503015",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7276,9 +8147,15 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503015",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7287,9 +8164,15 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503015",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7298,9 +8181,15 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503016",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7309,9 +8198,15 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503016",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7320,9 +8215,15 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503016",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7331,9 +8232,15 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503020",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7342,9 +8249,15 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503020",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7353,6 +8266,11 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503020",
+    "uom1": "50",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
@@ -7422,28 +8340,41 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000440-0",
     "nama": "TBB 4B - SOSRO CELUP 4 B (1 CAR = 12 BOS)",
     "satuan": "CAR",
-    "isi": "12",
+    "isi": "240",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503018",
+    "uom1": "240",
+    "uom2": "20",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000440-1",
     "nama": "TBB 4B - SOSRO CELUP 4 B (1 BOS = 20 SCH)",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "20",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503018",
+    "uom1": "240",
+    "uom2": "20",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7472,22 +8403,34 @@
     "kode": "A0000442-0",
     "nama": "TBB 4B PV - POCI CELUP VANILA 4 B (1 CAR = 12 BOS)",
     "satuan": "CAR",
-    "isi": "12",
+    "isi": "240",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503019",
+    "uom1": "240",
+    "uom2": "20",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000442-1",
     "nama": "TBB 4B PV - POCI CELUP VANILA 4 B (1 BOS = 20 SCH )",
     "satuan": "BOS",
-    "isi": "1",
+    "isi": "20",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503019",
+    "uom1": "240",
+    "uom2": "20",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7511,6 +8454,8 @@
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
+<<<<<<< HEAD
+=======
   },
   {
     "kode": "A0000448-0",
@@ -7632,15 +8577,21 @@
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
+>>>>>>> main
   },
   {
     "kode": "A0000453-0",
     "nama": "TCBH 25 PC - BOTOL CELUP HIJAU 25 PROMO CONTAINER (1 CAR =20 BOS)",
     "satuan": "CAR",
-    "isi": "20",
+    "isi": "40",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0504009",
+    "uom1": "40",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7650,6 +8601,10 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0504009",
+    "uom1": "40",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
@@ -7872,6 +8827,7 @@
     "hirarki": "3",
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7881,8 +8837,13 @@
     "satuan": "CAR",
     "isi": "12",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503021",
+    "uom1": "12",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7892,8 +8853,13 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503021",
+    "uom1": "12",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7903,9 +8869,15 @@
     "satuan": "CAR",
     "isi": "40",
     "hirarki": "4",
+<<<<<<< HEAD
+    "kodedist": "0504010",
+    "uom1": "40",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7914,9 +8886,15 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "5",
+<<<<<<< HEAD
+    "kodedist": "0504010",
+    "uom1": "40",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -7925,9 +8903,15 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "6",
+<<<<<<< HEAD
+    "kodedist": "0504010",
+    "uom1": "40",
+    "uom2": "5",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8085,20 +9069,31 @@
     "uom3": "1"
   },
   {
-    "kode": "AP000001-0",
-    "nama": "ETPMG - ES TEH POCI TEH TARIK MANGGA (1 CAR = 15 BOS)",
+    "kode": "A0000478-0",
+    "nama": "TBB25 PVPC - TEH CAP POCI CELUP VANILA 25 PROMO CONTAINER (1 CAR = 20 BOS)",
     "satuan": "CAR",
-    "isi": "150",
+    "isi": "40",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503029",
+    "uom1": "40",
+=======
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
   {
-    "kode": "AP000001-1",
-    "nama": "ETPMG - ES TEH POCI TEH TARIK MANGGA (1 BOS = 10 PCS)",
+    "kode": "A0000478-1",
+    "nama": "TBB25 PVPC - TEH CAP POCI CELUP VANILA 25 PROMO CONTAINER",
     "satuan": "BOS",
+<<<<<<< HEAD
+    "isi": "1",
+    "hirarki": "2",
+    "kodedist": "0503029",
+    "uom1": "40",
+=======
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
@@ -8114,6 +9109,7 @@
     "hirarki": "3",
     "kodedist": "",
     "uom1": "1",
+>>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8123,9 +9119,15 @@
     "satuan": "CAR",
     "isi": "150",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503024",
+    "uom1": "150",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8134,9 +9136,15 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503024",
+    "uom1": "150",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8145,6 +9153,11 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503024",
+    "uom1": "150",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
@@ -8181,6 +9194,7 @@
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8189,9 +9203,15 @@
     "satuan": "CAR",
     "isi": "150",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503025",
+    "uom1": "150",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8200,9 +9220,15 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503025",
+    "uom1": "150",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8211,31 +9237,49 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503025",
+    "uom1": "150",
+    "uom2": "10",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "AP000005-0",
     "nama": "ETPGA5 - ES TEH POCI TEH TARIK GULA AREN MT (1 CAR = 8 BOS)",
     "satuan": "CAR",
-    "isi": "240",
+    "isi": "48",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503022",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "AP000005-1",
     "nama": "ETPGA5 - ES TEH POCI TEH TARIK GULA AREN MT (1 BOS = 30 SCH )",
     "satuan": "BOS",
-    "isi": "30",
+    "isi": "6",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503022",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8244,31 +9288,49 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503022",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "AP000006-0",
     "nama": "ETPPV5 - ES TEH POCI TEH VANILA PANDAN SELASIH MT (1 CAR = 8 BOS)",
     "satuan": "CAR",
-    "isi": "240",
+    "isi": "48",
     "hirarki": "1",
+<<<<<<< HEAD
+    "kodedist": "0503023",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "AP000006-1",
     "nama": "ETPPV5 - ES TEH POCI TEH VANILA PANDAN SELASIH MT (1 BOS = 30 SCH )",
     "satuan": "BOS",
-    "isi": "30",
+    "isi": "6",
     "hirarki": "2",
+<<<<<<< HEAD
+    "kodedist": "0503023",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
@@ -8277,16 +9339,22 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
+<<<<<<< HEAD
+    "kodedist": "0503023",
+    "uom1": "48",
+    "uom2": "6",
+=======
     "kodedist": "",
     "uom1": "1",
     "uom2": "1",
+>>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "J0000005-1",
     "nama": "GLP - GELAS GAGANG POCI (1 BOS = 1 PCS)",
     "satuan": "BOS",
-    "isi": "24",
+    "isi": "1",
     "hirarki": "1",
     "kodedist": "",
     "uom1": "1",
@@ -8297,7 +9365,7 @@
     "kode": "J0000006-1",
     "nama": "GLB - GELAS GAGANG BOTOL (1 BOS = 1 PCS)",
     "satuan": "BOS",
-    "isi": "24",
+    "isi": "1",
     "hirarki": "1",
     "kodedist": "",
     "uom1": "1",
@@ -8308,7 +9376,7 @@
     "kode": "J0000007-1",
     "nama": "GLS - GELAS GAGANG SOSRO (1 BOS = 1 PCS)",
     "satuan": "BOS",
-    "isi": "24",
+    "isi": "1",
     "hirarki": "1",
     "kodedist": "",
     "uom1": "1",
