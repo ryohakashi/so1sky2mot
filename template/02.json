@@ -2123,1155 +2123,14 @@
     "uom3": "1"
   },
   {
-<<<<<<< HEAD
-=======
-    "kode": "A0000425-1",
-    "nama": "- ACC - BERGAMOT TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000065-1",
-    "nama": "- ACC - BOP (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000065-0",
-    "nama": "- ACC - BOP (1 KRG =40 BOS)",
-    "satuan": "KRG",
-    "isi": "40",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000415-1",
-    "nama": "- ACC - CALMING LEMONGRASS TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000444-0",
-    "nama": "- ACC - CHAI TEA (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000444-1",
-    "nama": "- ACC - CHAI TEA (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000444-3",
-    "nama": "- ACC - CHAI TEA (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000430-0",
-    "nama": "- ACC - EARL GREY TEA (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000430-1",
-    "nama": "- ACC - EARL GREY TEA (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000430-3",
-    "nama": "- ACC - EARL GREY TEA (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000445-0",
-    "nama": "- ACC - GENMAICHA (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000445-1",
-    "nama": "- ACC - GENMAICHA (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000445-3",
-    "nama": "- ACC - GENMAICHA (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000436-1",
-    "nama": "- ACC - GS011 (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000463-1",
-    "nama": "- ACC - GS013 (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000066-1",
-    "nama": "- ACC - GSHERB (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000066-0",
-    "nama": "- ACC - GSHERB (1 KRG =25 BOS)",
-    "satuan": "KRG",
-    "isi": "25",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000454-1",
-    "nama": "- ACC - GUNPOWDER (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000413-1",
-    "nama": "- ACC - INDONESIAN BLACK TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000412-1",
-    "nama": "- ACC - INDONESIAN GREEN TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000407-1",
-    "nama": "- ACC - JASMINE01 (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000416-1",
-    "nama": "- ACC - JAVA JASMINE TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000443-0",
-    "nama": "- ACC - OOLONG TEA (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000443-1",
-    "nama": "- ACC - OOLONG TEA (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000443-3",
-    "nama": "- ACC - OOLONG TEA (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000414-1",
-    "nama": "- ACC - PEACH TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000429-0",
-    "nama": "- ACC - ROASTED TEA (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000429-1",
-    "nama": "- ACC - ROASTED TEA (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000429-3",
-    "nama": "- ACC - ROASTED TEA (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000410-1",
-    "nama": "- ACC - ROSELLA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000056-1",
-    "nama": "- ACC - SUPERIOR (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000417-1",
-    "nama": "- ACC - VANILLA MINT TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000411-1",
-    "nama": "- ACC - WHITE TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000464-1",
-    "nama": "- BOTOL BIRU 40 GR AP EXPORT (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000464-0",
-    "nama": "- BOTOL BIRU 40 GR AP EXPORT (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "200",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000464-3",
-    "nama": "- BOTOL BIRU 40 GR AP EXPORT (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000465-1",
-    "nama": "- BOTOL BIRU 80 GR AP EXPORT (1 BOS = 5 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000465-0",
-    "nama": "- BOTOL BIRU 80 GR AP EXPORT (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000465-3",
-    "nama": "- BOTOL BIRU 80 GR AP EXPORT (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000466-1",
-    "nama": "- BOTOL HIJAU 40 GR AP EXPORT (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000466-0",
-    "nama": "- BOTOL HIJAU 40 GR AP EXPORT (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "200",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000466-3",
-    "nama": "- BOTOL HIJAU 40 GR AP EXPORT (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000357-1",
-    "nama": "- BOTOL PREMIUM 100 GR EXPORT (1 BOS = 5 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000357-0",
-    "nama": "- BOTOL PREMIUM 100 GR EXPORT (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000357-3",
-    "nama": "- BOTOL PREMIUM 100 GR EXPORT (1 DUS)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "J0000011-1",
-    "nama": "- CONTAINER FOOD HYBRID BOTOL 3-4 (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000007-1",
-    "nama": "- ES TEH POCI TEH TARIK GULA AREN EXPORT (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000007-0",
-    "nama": "- ES TEH POCI TEH TARIK GULA AREN EXPORT (1 CAR = 15 BOS)",
-    "satuan": "CAR",
-    "isi": "150",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000007-3",
-    "nama": "- ES TEH POCI TEH TARIK GULA AREN EXPORT (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000008-1",
-    "nama": "- ES TEH POCI VANILA PANDAN SELASIH EXPORT (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000008-0",
-    "nama": "- ES TEH POCI VANILA PANDAN SELASIH EXPORT (1 CAR = 15 BOS)",
-    "satuan": "CAR",
-    "isi": "150",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000008-3",
-    "nama": "- ES TEH POCI VANILA PANDAN SELASIH EXPORT (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "J0000021-1",
-    "nama": "- GELAS GAGANG POCI LSN (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "12",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "J0000008-1",
-    "nama": "- GELAS GAGANG POCI PREMIUM (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000262-0",
-    "nama": "- PBNS - POCI BOROBUDUR NAGA SET (1 CAR = 6 BOS)",
-    "satuan": "CAR",
-    "isi": "6",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000260-0",
-    "nama": "- PBSA - POCI TANAH BIASA ENGKEL (1 CAR = 12 BOS)",
-    "satuan": "CAR",
-    "isi": "12",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000263-0",
-    "nama": "- PHS - POCI HARMONI SET (1 CAR = 6 BOS)",
-    "satuan": "CAR",
-    "isi": "6",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000264-0",
-    "nama": "- PJS - POCI JUMBO SET (1 CAR = 6 BOS)",
-    "satuan": "CAR",
-    "isi": "6",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000394-1",
-    "nama": "- POCI CELUP PREMIUM 25 EXPORT (1 BOS = 5 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000394-0",
-    "nama": "- POCI CELUP PREMIUM 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "50",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000394-2",
-    "nama": "- POCI CELUP PREMIUM 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000366-1",
-    "nama": "- POCI CELUP WANGI TEH ASLI 25 EXPORT (1 BOS = 5 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000366-0",
-    "nama": "- POCI CELUP WANGI TEH ASLI 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "50",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000366-2",
-    "nama": "- POCI CELUP WANGI TEH ASLI 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000266-1",
-    "nama": "- PTCT - POCI KERAMIK TERACOTA (1 BOS = 1 DUS )",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000265-1",
-    "nama": "- PWHT - POCI KERAMIK WHITE (1 BOS = 1 DUS )",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000261-0",
-    "nama": "- PWS - POCI WALUH SET (1 CAR = 6 BOS)",
-    "satuan": "CAR",
-    "isi": "6",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "EKTHSC03-1",
-    "nama": "- SFG A2KMN (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "EKTMSC01-1",
-    "nama": "- SFG BLACK TEA (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "EKTHSC02-1",
-    "nama": "- SFG GS009 (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "EKTHSC01-1",
-    "nama": "- SFG SPRR (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000458-1",
-    "nama": "- SOSRO CELUP 2IN1 5 EXPORT (1 BOS = 30 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000458-0",
-    "nama": "- SOSRO CELUP 2IN1 5 EXPORT (1 CAR = 8 BOS)",
-    "satuan": "CAR",
-    "isi": "8",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000447-1",
-    "nama": "- SOSRO CELUP 4 B EXPORT (1 BOS = 20 SCH)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000447-0",
-    "nama": "- SOSRO CELUP 4 B EXPORT (1 CAR = 12 BOS)",
-    "satuan": "CAR",
-    "isi": "240",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000447-2",
-    "nama": "- SOSRO CELUP 4 B EXPORT (1 SCH = 4 BAG)",
-    "satuan": "SCH",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000375-1",
-    "nama": "- TASSEO DARJELING EXPORT (1 BOS = 6 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000375-0",
-    "nama": "- TASSEO DARJELING EXPORT (1 CAR = 4 BOS)",
-    "satuan": "CAR",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000375-2",
-    "nama": "- TASSEO DARJELING EXPORT (1 DUS = 20 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000377-1",
-    "nama": "- TASSEO EARL GREY EXPORT (1 BOS = 6 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000377-0",
-    "nama": "- TASSEO EARL GREY EXPORT (1 CAR = 4 BOS)",
-    "satuan": "CAR",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000377-2",
-    "nama": "- TASSEO EARL GREY EXPORT (1 DUS = 20 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000376-1",
-    "nama": "- TASSEO ENGLISH BREAKFAST EXPORT (1 BOS = 6 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000376-0",
-    "nama": "- TASSEO ENGLISH BREAKFAST EXPORT (1 CAR = 4 BOS)",
-    "satuan": "CAR",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000376-2",
-    "nama": "- TASSEO ENGLISH BREAKFAST EXPORT (1 DUS = 20 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000373-1",
-    "nama": "- TASSEO IRRESISTIBLE PEACH EXPORT (1 BOS = 6 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000373-0",
-    "nama": "- TASSEO IRRESISTIBLE PEACH EXPORT (1 CAR = 4 BOS)",
-    "satuan": "CAR",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000373-2",
-    "nama": "- TASSEO IRRESISTIBLE PEACH EXPORT (1 DUS = 20 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000371-1",
-    "nama": "- TASSEO JAVA JASMINE EXPORT (1 BOS = 6 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000371-0",
-    "nama": "- TASSEO JAVA JASMINE EXPORT (1 CAR = 4 BOS)",
-    "satuan": "CAR",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000371-2",
-    "nama": "- TASSEO JAVA JASMINE EXPORT (1 DUS = 20 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000372-1",
-    "nama": "- TASSEO LEMONGRASS EXPORT (1 BOS = 6 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000372-0",
-    "nama": "- TASSEO LEMONGRASS EXPORT (1 CAR = 4 BOS)",
-    "satuan": "CAR",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000372-2",
-    "nama": "- TASSEO LEMONGRASS EXPORT (1 DUS = 20 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000374-1",
-    "nama": "- TASSEO PURE GREEN EXPORT (1 BOS = 6 DUS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000374-0",
-    "nama": "- TASSEO PURE GREEN EXPORT (1 CAR = 4 BOS)",
-    "satuan": "CAR",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000374-2",
-    "nama": "- TASSEO PURE GREEN EXPORT (1 DUS = 20 BAG)",
-    "satuan": "DUS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "J0000020-1",
-    "nama": "- TUMBLER FLIP BOTOL (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "J0000018-1",
-    "nama": "- TUMBLER FLIP POCI (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "J0000019-1",
-    "nama": "- TUMBLER FLIP SOSRO (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000061-1",
-    "nama": "ACC-A2KMN - ACC - A2KMN (1 BOS = 1 PCS )",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000058-1",
-    "nama": "ACC-BLACK TEA - ACC - BLACK TEA (1 BOS = 1 PCS )",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000391-1",
-    "nama": "ACC-GS009 - ACC - GS009 (1 BOS = 1 PCS )",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "0",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
->>>>>>> main
     "kode": "A0000001-0",
     "nama": "BI - BOTOL HIJAU LUSINAN 8 GR (1 BAL = 10 BOS)",
     "satuan": "BAL",
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3281,263 +2140,19 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000001-2",
     "nama": "BI - BOTOL HIJAU LUSINAN 8 GR (1 PAK =10 PCS )",
     "satuan": "PAK",
-<<<<<<< HEAD
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
     "uom1": "100",
     "uom2": "10",
-=======
-    "isi": "24",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000001-3",
-    "nama": "BI - BOTOL HIJAU LUSINAN 8 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000003-0",
-    "nama": "PBL - POCI BIRU LUSINAN 8 GR (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000003-1",
-    "nama": "PBL - POCI BIRU LUSINAN 8 GR (1 BOS = 10 PAK )",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000003-2",
-    "nama": "PBL - POCI BIRU LUSINAN 8 GR (1 PAK = 10 PCS )",
-    "satuan": "PAK",
-    "isi": "24",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000003-3",
-    "nama": "PBL - POCI BIRU LUSINAN 8 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000004-0",
-    "nama": "PCL - POCI COKLAT LUSINAN 8 GR (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000004-1",
-    "nama": "PCL - POCI COKLAT LUSINAN 8 GR (1 BOS = 10 PAK )",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000004-2",
-    "nama": "PCL - POCI COKLAT LUSINAN 8 GR (1 PAK = 10 PCS )",
-    "satuan": "PAK",
-    "isi": "24",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000004-3",
-    "nama": "PCL - POCI COKLAT LUSINAN 8 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000005-0",
-    "nama": "PHML - POCI HIJAU MUDA LUSINAN 8 GR (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000005-1",
-    "nama": "PHML - POCI HIJAU MUDA LUSINAN 8 GR (1 BOS = 10 PAK )",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000005-2",
-    "nama": "PHML - POCI HIJAU MUDA LUSINAN 8 GR (1 PAK = 10 PCS )",
-    "satuan": "PAK",
-    "isi": "24",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000005-3",
-    "nama": "PHML - POCI HIJAU MUDA LUSINAN 8 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000008-0",
-    "nama": "PKL - POCI KUNING LUSINAN 10 GR (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000008-1",
-    "nama": "PKL - POCI KUNING LUSINAN 10 GR (1 BOS = 10 PAK )",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000008-2",
-    "nama": "PKL - POCI KUNING LUSINAN 10 GR (1 PAK = 10 PCS )",
-    "satuan": "PAK",
-    "isi": "24",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000008-3",
-    "nama": "PKL - POCI KUNING LUSINAN 10 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000009-0",
-    "nama": "PML - POCI MERAH LUSINAN 10 GR (1 BAL = 10 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000009-1",
-    "nama": "PML - POCI MERAH LUSINAN 10 GR (1 BOS = 10 PAK )",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000009-2",
-    "nama": "PML - POCI MERAH LUSINAN 10 GR (1 PAK = 10 PCS )",
-    "satuan": "PAK",
-    "isi": "24",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000009-3",
-    "nama": "PML - POCI MERAH LUSINAN 10 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3547,13 +2162,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3563,13 +2173,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3579,24 +2184,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000012-3",
-    "nama": "SDML - SADEL MERAH LUSINAN 8 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3606,13 +2195,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3622,13 +2206,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3638,24 +2217,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000014-3",
-    "nama": "TPML - TEROMPET MERAH LUSINAN 8 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3862,15 +2425,9 @@
     "satuan": "BAL",
     "isi": "200",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503028",
     "uom1": "200",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3879,15 +2436,9 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503028",
     "uom1": "200",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3896,15 +2447,9 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503028",
     "uom1": "200",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3914,13 +2459,8 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "200",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3930,13 +2470,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "200",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3946,13 +2481,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "200",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3962,13 +2492,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3978,13 +2503,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -3994,13 +2514,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4043,13 +2558,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4059,13 +2569,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4075,13 +2580,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4091,13 +2591,8 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4107,13 +2602,8 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4123,13 +2613,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4139,13 +2624,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4155,13 +2635,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4171,13 +2646,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4187,13 +2657,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4203,13 +2668,8 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4219,13 +2679,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4268,13 +2723,8 @@
     "isi": "80",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "80",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4284,13 +2734,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "80",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4300,13 +2745,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "80",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4316,13 +2756,8 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
     "uom2": "2",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4332,13 +2767,8 @@
     "isi": "2",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
     "uom2": "2",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4348,13 +2778,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
     "uom2": "2",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4650,11 +3075,7 @@
     "isi": "40",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "40",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4665,11 +3086,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "40",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -4680,13 +3097,8 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4696,13 +3108,8 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4712,13 +3119,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4728,13 +3130,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4744,13 +3141,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4760,13 +3152,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4776,13 +3163,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4792,13 +3174,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4808,13 +3185,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4824,13 +3196,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4840,13 +3207,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4856,13 +3218,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4872,13 +3229,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4888,13 +3240,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4904,13 +3251,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4920,13 +3262,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4936,13 +3273,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4952,13 +3284,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4967,15 +3294,9 @@
     "satuan": "CAR",
     "isi": "100",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503007",
     "uom1": "100",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -4984,15 +3305,9 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503007",
     "uom1": "100",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5001,15 +3316,9 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503007",
     "uom1": "100",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5052,11 +3361,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5067,11 +3372,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5082,11 +3383,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5097,11 +3394,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5112,11 +3405,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5127,11 +3416,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5142,11 +3427,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5157,11 +3438,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5172,11 +3449,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5187,11 +3460,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5202,13 +3471,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5218,13 +3482,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5234,13 +3493,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5250,13 +3504,8 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5266,13 +3515,8 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5282,13 +3526,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5298,11 +3537,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5313,11 +3548,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5328,11 +3559,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5343,11 +3570,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5358,13 +3581,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5374,13 +3592,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5390,13 +3603,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5406,13 +3614,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5422,13 +3625,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5438,13 +3636,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5486,13 +3679,8 @@
     "satuan": "CAR",
     "isi": "10",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503001",
     "uom1": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5502,13 +3690,8 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503001",
     "uom1": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5563,13 +3746,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5579,13 +3757,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5595,13 +3768,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5610,13 +3778,8 @@
     "satuan": "CAR",
     "isi": "12",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0504006",
     "uom1": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5626,13 +3789,8 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0504006",
     "uom1": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5643,13 +3801,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5659,13 +3812,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5675,13 +3823,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5691,13 +3834,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5707,13 +3845,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5723,13 +3856,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5739,11 +3867,7 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5754,11 +3878,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5769,11 +3889,7 @@
     "isi": "6",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "6",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5784,11 +3900,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "6",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5799,13 +3911,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5815,13 +3922,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5831,13 +3933,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5847,13 +3944,8 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5863,13 +3955,8 @@
     "isi": "6",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5879,13 +3966,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
     "uom2": "6",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5894,11 +3976,7 @@
     "satuan": "CAR",
     "isi": "200",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503002",
-=======
-    "kodedist": "",
->>>>>>> main
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
@@ -5909,11 +3987,7 @@
     "satuan": "BOS",
     "isi": "20",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503002",
-=======
-    "kodedist": "",
->>>>>>> main
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
@@ -5924,15 +3998,9 @@
     "satuan": "CAR",
     "isi": "200",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0501001",
     "uom1": "200",
     "uom2": "20",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5941,15 +4009,9 @@
     "satuan": "BOS",
     "isi": "20",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0501001",
     "uom1": "200",
     "uom2": "20",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -5959,11 +4021,7 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5974,11 +4032,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -5989,11 +4043,7 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -6004,11 +4054,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -6019,13 +4065,8 @@
     "isi": "100",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6035,13 +4076,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6051,13 +4087,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "100",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6067,13 +4098,8 @@
     "isi": "200",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "200",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6083,13 +4109,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "200",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6099,13 +4120,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "200",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6115,13 +4131,8 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6131,13 +4142,8 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6147,13 +4153,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6163,13 +4164,8 @@
     "isi": "60",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "60",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6179,13 +4175,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "60",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6195,13 +4186,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "60",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6244,13 +4230,8 @@
     "isi": "500",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "500",
     "uom2": "50",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6260,13 +4241,8 @@
     "isi": "50",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "500",
     "uom2": "50",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6276,13 +4252,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "500",
     "uom2": "50",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6292,13 +4263,8 @@
     "isi": "400",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "400",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6308,13 +4274,8 @@
     "isi": "10",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "400",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6324,13 +4285,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "400",
     "uom2": "10",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6340,13 +4296,8 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "240",
     "uom2": "24",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6356,13 +4307,8 @@
     "isi": "24",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "240",
     "uom2": "24",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6372,13 +4318,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "240",
     "uom2": "24",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6421,13 +4362,8 @@
     "isi": "240",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "240",
     "uom2": "24",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6437,13 +4373,8 @@
     "isi": "24",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "240",
     "uom2": "24",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6453,13 +4384,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "240",
     "uom2": "24",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6469,11 +4395,7 @@
     "isi": "24",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -6484,11 +4406,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "24",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -6498,15 +4416,9 @@
     "satuan": "CAR",
     "isi": "120",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503012",
     "uom1": "120",
     "uom2": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6515,177 +4427,20 @@
     "satuan": "BOS",
     "isi": "12",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503012",
     "uom1": "120",
     "uom2": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
     "kode": "A0000243-2",
     "nama": "PVJ10 - POCI VANILA KANTONG JUMBO 10 GR (1 SCH = 4 PCS )",
     "satuan": "SCH",
-<<<<<<< HEAD
     "isi": "1",
     "hirarki": "3",
     "kodedist": "0503012",
     "uom1": "120",
     "uom2": "12",
-=======
-    "isi": "4",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000243-3",
-    "nama": "PVJ10 - POCI VANILA KANTONG JUMBO 10 GR (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "4",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000248-0",
-    "nama": "SBK - BOTOL BIRU 80 GR KARTON (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000248-1",
-    "nama": "SBK - BOTOL BIRU 80 GR KARTON (1 BOS = 5 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000248-3",
-    "nama": "SBK - BOTOL BIRU 80 GR KARTON (1 PCS)",
-    "satuan": "PCS",
-    "isi": "24",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000249-0",
-    "nama": "SKK - BOTOL BIRU 40 GR KARTON (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "200",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000249-1",
-    "nama": "SKK - BOTOL BIRU 40 GR KARTON (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000249-3",
-    "nama": "SKK - BOTOL BIRU 40 GR KARTON (1 PCS)",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000250-0",
-    "nama": "TAK - BOTOL HIJAU 40 GR KARTON (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "200",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000250-1",
-    "nama": "TAK - BOTOL HIJAU 40 GR KARTON (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000250-3",
-    "nama": "TAK - BOTOL HIJAU 40 GR KARTON (1 PCS)",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000251-0",
-    "nama": "TPCK - POCI COKLAT 40 GR KARTON (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "200",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000251-1",
-    "nama": "TPCK - POCI COKLAT 40 GR KARTON (1 BOS = 10 PCS )",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000251-3",
-    "nama": "TPCK - POCI COKLAT 40 GR KARTON (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6694,15 +4449,9 @@
     "satuan": "CAR",
     "isi": "200",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0505002",
     "uom1": "200",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6711,15 +4460,9 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0505002",
     "uom1": "200",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6728,15 +4471,9 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0505002",
     "uom1": "200",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6965,15 +4702,9 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503011",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6982,15 +4713,9 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503011",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -6999,136 +4724,9 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503011",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000349-1",
-    "nama": "PV100RMMANADO - POCI VANILA 100 GR HOREKA (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000349-3",
-    "nama": "PV100RMMANADO - POCI VANILA 100 GR HOREKA (1 PCS)",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000351-0",
-    "nama": "TBB25E - SOSRO HERITAGE BLACK 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000351-1",
-    "nama": "TBB25E - SOSRO HERITAGE BLACK 25 EXPORT (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000351-2",
-    "nama": "TBB25E - SOSRO HERITAGE BLACK 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000352-0",
-    "nama": "TBG25E - SOSRO HERITAGE GREEN 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000352-1",
-    "nama": "TBG25E - SOSRO HERITAGE GREEN 25 EXPORT (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000352-2",
-    "nama": "TBG25E - SOSRO HERITAGE GREEN 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000353-0",
-    "nama": "TBJ25E - SOSRO HERITAGE JASMINE 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000353-1",
-    "nama": "TBJ25E - SOSRO HERITAGE JASMINE 25 EXPORT (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000353-2",
-    "nama": "TBJ25E - SOSRO HERITAGE JASMINE 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7138,13 +4736,8 @@
     "isi": "50",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7154,13 +4747,8 @@
     "isi": "5",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7170,497 +4758,8 @@
     "isi": "1",
     "hirarki": "3",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "50",
     "uom2": "5",
-=======
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000361-0",
-    "nama": "TBB15E - SOSRO CELUP 15 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000361-1",
-    "nama": "TBB15E - SOSRO CELUP 15 EXPORT (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000361-2",
-    "nama": "TBB15E - SOSRO CELUP 15 EXPORT (1 DUS = 15 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000362-0",
-    "nama": "TCS25E - SOSRO CELUP 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "50",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000362-1",
-    "nama": "TCS25E - SOSRO CELUP 25 EXPORT (1 BOS = 5 DUS)",
-    "satuan": "BOS",
-    "isi": "5",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000362-2",
-    "nama": "TCS25E - SOSRO CELUP 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000363-0",
-    "nama": "TBB30E - SOSRO CELUP 30 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000363-1",
-    "nama": "TBB30E - SOSRO CELUP 30 EXPORT (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000363-2",
-    "nama": "TBB30E - SOSRO CELUP 30 EXPORT (1 DUS = 30 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000364-0",
-    "nama": "TBB50E - SOSRO CELUP 50 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "50",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000364-1",
-    "nama": "TBB50E - SOSRO CELUP 50 EXPORT (1 BOS = 5 DUS)",
-    "satuan": "BOS",
-    "isi": "5",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000364-2",
-    "nama": "TBB50E - SOSRO CELUP 50 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000365-0",
-    "nama": "TBB100E - SOSRO CELUP 100 EXPORT (1 CAR =36 BOS)",
-    "satuan": "CAR",
-    "isi": "36",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000365-1",
-    "nama": "TBB100E - SOSRO CELUP 100 EXPORT (1 BOS = 100 BAG)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000367-0",
-    "nama": "TBB25PVE - POCI CELUP VANILA 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "50",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000367-1",
-    "nama": "TBB25PVE - POCI CELUP VANILA 25 EXPORT (1 BOS = 5 DUS)",
-    "satuan": "BOS",
-    "isi": "5",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000367-2",
-    "nama": "TBB25PVE - POCI CELUP VANILA 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000368-0",
-    "nama": "TBB25PLE - POCI CELUP LEMON 25 EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "50",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000368-1",
-    "nama": "TBB25PLE - POCI CELUP LEMON 25 EXPORT (1 BOS = 5 DUS)",
-    "satuan": "BOS",
-    "isi": "5",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000368-2",
-    "nama": "TBB25PLE - POCI CELUP LEMON 25 EXPORT (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000369-0",
-    "nama": "PV50E - POCI VANILA 50 GR EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000369-1",
-    "nama": "PV50E - POCI VANILA 50 GR EXPORT (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000369-3",
-    "nama": "PV50E - POCI VANILA 50 GR EXPORT (1 DUS)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000370-0",
-    "nama": "PB50E - POCI WANGI TEH ASLI 50 GR EXPORT (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000370-1",
-    "nama": "PB50E - POCI WANGI TEH ASLI 50 GR EXPORT (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000370-3",
-    "nama": "PB50E - POCI WANGI TEH ASLI 50 GR EXPORT (1 DUS)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000378-0",
-    "nama": "TBB25COBRAND25 - SOSRO HERITAGE BLACK 25 CO BRAND Bos 25 (1 CAR =25 BOS)",
-    "satuan": "CAR",
-    "isi": "25",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000378-1",
-    "nama": "TBB25COBRAND25 - SOSRO HERITAGE BLACK 25 CO BRAND BOS 25 (1 BOS = 100 BAG)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000379-0",
-    "nama": "TBG25COBRAND25 - SOSRO HERITAGE GREEN 25 CO BRAND Bos 25 (1 CAR =25 BOS)",
-    "satuan": "CAR",
-    "isi": "25",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000379-1",
-    "nama": "TBG25COBRAND25 - SOSRO HERITAGE GREEN 25 CO BRAND BOS 25 (1 BOS = 100 BAG)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000380-0",
-    "nama": "TBJ25COBRAND25 - SOSRO HERITAGE JASMINE 25 CO BRAND Bos25 (1 CAR =25 BOS)",
-    "satuan": "CAR",
-    "isi": "25",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000380-1",
-    "nama": "TBJ25COBRAND25 - SOSRO HERITAGE JASMINE 25 CO BRAND BOS25 (1 BOS = 100 BAG)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000381-0",
-    "nama": "TBB25COBRAND10 - SOSRO HERITAGE BLACK 25 CO BRAND BOS 10 (1 CAR = 10 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000381-1",
-    "nama": "TBB25COBRAND10 - SOSRO HERITAGE BLACK 25 CO BRAND BOS 10 (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000381-2",
-    "nama": "TBB25COBRAND10 - SOSRO HERITAGE BLACK 25 CO BRAND BOS 10 (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000382-0",
-    "nama": "TBG25COBRAND10 - SOSRO HERITAGE GREEN 25 CO BRAND BOS 10 (1 KI = 10 BOS)",
-    "satuan": "KI",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000382-1",
-    "nama": "TBG25COBRAND10 - SOSRO HERITAGE GREEN 25 CO BRAND BOS 10 (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000382-2",
-    "nama": "TBG25COBRAND10 - SOSRO HERITAGE GREEN 25 CO BRAND BOS 10 (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000383-0",
-    "nama": "TBJ25COBRAND10 - SOSRO HERITAGE JASMINE 25 CO BRAND BOS10 (1 KI = 10 BOS)",
-    "satuan": "KI",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000383-1",
-    "nama": "TBJ25COBRAND10 - SOSRO HERITAGE JASMINE 25 CO BRAND BOS10 (1 BOS = 10 DUS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000383-2",
-    "nama": "TBJ25COBRAND10 - SOSRO HERITAGE JASMINE 25 CO BRAND BOS10 (1 DUS = 25 BAG)",
-    "satuan": "DUS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000385-1",
-    "nama": "TSS100GRRMP - SOSRO SEDUH 100 GR RMP (1 BOS = 1 PCS )",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000386-1",
-    "nama": "TSS1KGRMP - SOSRO SEDUH 1 KG RMP (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000387-1",
-    "nama": "TSDH 40 SACHET - SADEL HIJAU 40 GR SACHET (1 BOS = 1 PCS )",
-    "satuan": "BOS",
-    "isi": "24",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7669,15 +4768,9 @@
     "satuan": "CAR",
     "isi": "120",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503009",
     "uom1": "120",
     "uom2": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7686,15 +4779,9 @@
     "satuan": "BOS",
     "isi": "12",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503009",
     "uom1": "120",
     "uom2": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7703,15 +4790,9 @@
     "satuan": "CAR",
     "isi": "120",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503017",
     "uom1": "120",
     "uom2": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7720,15 +4801,9 @@
     "satuan": "BOS",
     "isi": "12",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503017",
     "uom1": "120",
     "uom2": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7738,11 +4813,7 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7753,11 +4824,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7801,11 +4868,7 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7816,11 +4879,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7831,11 +4890,7 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7846,11 +4901,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7861,11 +4912,7 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7876,11 +4923,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7891,11 +4934,7 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7906,11 +4945,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7920,15 +4955,9 @@
     "satuan": "CAR",
     "isi": "48",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0504007",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7937,15 +4966,9 @@
     "satuan": "BOS",
     "isi": "6",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0504007",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7954,15 +4977,9 @@
     "satuan": "PAK",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0504007",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -7972,11 +4989,7 @@
     "isi": "4",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -7987,11 +5000,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "4",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8002,11 +5011,7 @@
     "isi": "10",
     "hirarki": "1",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8017,11 +5022,7 @@
     "isi": "1",
     "hirarki": "2",
     "kodedist": "",
-<<<<<<< HEAD
     "uom1": "10",
-=======
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8130,15 +5131,9 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503015",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8147,15 +5142,9 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503015",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8164,15 +5153,9 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503015",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8181,15 +5164,9 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503016",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8198,15 +5175,9 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503016",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8215,15 +5186,9 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503016",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8232,15 +5197,9 @@
     "satuan": "CAR",
     "isi": "50",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503020",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8249,15 +5208,9 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503020",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8266,81 +5219,9 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503020",
     "uom1": "50",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000437-0",
-    "nama": "TSCHJ 25 E - SOSRO CELUP HERITAGE JASMINE 25 EXPORT (1 KG = 4 BOS)",
-    "satuan": "KG",
-    "isi": "4",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000437-1",
-    "nama": "TSCHJ 25 E - SOSRO CELUP HERITAGE JASMINE 25 EXPORT (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000438-0",
-    "nama": "TSCHG 25 E - SOSRO CELUP HERITAGE GREEN 25 EXPORT (1 KG = 4 BOS)",
-    "satuan": "KG",
-    "isi": "4",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000438-1",
-    "nama": "TSCHG 25 E - SOSRO CELUP HERITAGE GREEN 25 EXPORT (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000439-0",
-    "nama": "TSCHB 25 E - SOSRO CELUP HERITAGE BLACK 25 EXPORT (1 KG = 4 BOS)",
-    "satuan": "KG",
-    "isi": "4",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000439-1",
-    "nama": "TSCHB 25 E - SOSRO CELUP HERITAGE BLACK 25 EXPORT (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8349,15 +5230,9 @@
     "satuan": "CAR",
     "isi": "240",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503018",
     "uom1": "240",
     "uom2": "20",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8366,15 +5241,9 @@
     "satuan": "BOS",
     "isi": "20",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503018",
     "uom1": "240",
     "uom2": "20",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8405,15 +5274,9 @@
     "satuan": "CAR",
     "isi": "240",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503019",
     "uom1": "240",
     "uom2": "20",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8422,15 +5285,9 @@
     "satuan": "BOS",
     "isi": "20",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503019",
     "uom1": "240",
     "uom2": "20",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8454,130 +5311,6 @@
     "uom1": "1",
     "uom2": "1",
     "uom3": "1"
-<<<<<<< HEAD
-=======
-  },
-  {
-    "kode": "A0000448-0",
-    "nama": "TCBH 4BE - BOTOL CELUP HIJAU 4 B EXPORT (1 CAR = 12 BOS)",
-    "satuan": "CAR",
-    "isi": "240",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000448-1",
-    "nama": "TCBH 4BE - BOTOL CELUP HIJAU 4 B EXPORT (1 BOS = 20 SCH)",
-    "satuan": "BOS",
-    "isi": "20",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000448-2",
-    "nama": "TCBH 4BE - BOTOL CELUP HIJAU 4 B EXPORT (1 SCH = 4 BAG)",
-    "satuan": "SCH",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000449-0",
-    "nama": "TBB 4B PVE - POCI CELUP VANILA 4 B EXPORT (1 CAR = 12 BOS)",
-    "satuan": "CAR",
-    "isi": "240",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000449-1",
-    "nama": "TBB 4B PVE - POCI CELUP VANILA 4 B EXPORT (1 BOS = 20 SCH)",
-    "satuan": "BOS",
-    "isi": "20",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000449-2",
-    "nama": "TBB 4B PVE - POCI CELUP VANILA 4 B EXPORT (1 SCH = 4 BAG)",
-    "satuan": "SCH",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000450-0",
-    "nama": "TPP 4BRE - POCI PREMIUM SACHET 4 BR EXPORT (1 CAR = 12 BOS)",
-    "satuan": "CAR",
-    "isi": "240",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000450-1",
-    "nama": "TPP 4BRE - POCI PREMIUM SACHET 4 BR EXPORT (1 BOS = 20 SCH)",
-    "satuan": "BOS",
-    "isi": "20",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000450-2",
-    "nama": "TPP 4BRE - POCI PREMIUM SACHET 4 BR EXPORT (1 SCH = 4 BAG)",
-    "satuan": "SCH",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000451-0",
-    "nama": "TCBVE - BOTOL CELUP VINTAGE EXPORT (1 CAR = 12 BOS)",
-    "satuan": "CAR",
-    "isi": "12",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000451-1",
-    "nama": "TCBVE - BOTOL CELUP VINTAGE EXPORT (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
->>>>>>> main
   },
   {
     "kode": "A0000453-0",
@@ -8585,13 +5318,8 @@
     "satuan": "CAR",
     "isi": "40",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0504009",
     "uom1": "40",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8601,233 +5329,8 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0504009",
     "uom1": "40",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000455-0",
-    "nama": "SK AP - BOTOL BIRU 40 GR AP (1 BAL =20 BOS)",
-    "satuan": "BAL",
-    "isi": "200",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000455-1",
-    "nama": "SK AP - BOTOL BIRU 40 GR AP (1 BOS = 10 PCS )",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000455-3",
-    "nama": "SK AP - BOTOL BIRU 40 GR AP (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000456-0",
-    "nama": "SB AP - BOTOL BIRU 80 GR AP (1 BAL =20 BOS)",
-    "satuan": "BAL",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000456-1",
-    "nama": "SB AP - BOTOL BIRU 80 GR AP (1 BOS = 5 PCS )",
-    "satuan": "BOS",
-    "isi": "5",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000456-3",
-    "nama": "SB AP - BOTOL BIRU 80 GR AP (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000457-0",
-    "nama": "TA AP - BOTOL HIJAU 40 GR AP (1 BAL =20 BOS)",
-    "satuan": "BAL",
-    "isi": "200",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000457-1",
-    "nama": "TA AP - BOTOL HIJAU 40 GR AP (1 BOS = 10 PCS )",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000457-3",
-    "nama": "TA AP - BOTOL HIJAU 40 GR AP (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000459-0",
-    "nama": "PGL BULK - POCI GOLD BULK (1 KRG =25 BOS)",
-    "satuan": "KRG",
-    "isi": "25",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000459-1",
-    "nama": "PGL BULK - POCI GOLD BULK (1 BOS = 1 PCS)",
-    "satuan": "BOS",
-    "isi": "1",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000460-0",
-    "nama": "SK APK - BOTOL BIRU 40 GR AP KARTON (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "200",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000460-1",
-    "nama": "SK APK - BOTOL BIRU 40 GR AP KARTON (1 BOS = 10 PCS )",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000460-3",
-    "nama": "SK APK - BOTOL BIRU 40 GR AP KARTON (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000461-0",
-    "nama": "SB APK - BOTOL BIRU 80 GR AP KARTON (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "100",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000461-1",
-    "nama": "SB APK - BOTOL BIRU 80 GR AP KARTON (1 BOS = 5 PCS )",
-    "satuan": "BOS",
-    "isi": "5",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000461-3",
-    "nama": "SB APK - BOTOL BIRU 80 GR AP KARTON (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000462-0",
-    "nama": "TA APK - BOTOL HIJAU 40 GR AP KARTON (1 CAR =20 BOS)",
-    "satuan": "CAR",
-    "isi": "200",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000462-1",
-    "nama": "TA APK - BOTOL HIJAU 40 GR AP KARTON (1 BOS = 10 PCS )",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "A0000462-3",
-    "nama": "TA APK - BOTOL HIJAU 40 GR AP KARTON (1 PCS )",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8837,13 +5340,8 @@
     "satuan": "CAR",
     "isi": "12",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503021",
     "uom1": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8853,13 +5351,8 @@
     "satuan": "BOS",
     "isi": "1",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503021",
     "uom1": "12",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -8869,15 +5362,9 @@
     "satuan": "CAR",
     "isi": "40",
     "hirarki": "4",
-<<<<<<< HEAD
     "kodedist": "0504010",
     "uom1": "40",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8886,15 +5373,9 @@
     "satuan": "BOS",
     "isi": "5",
     "hirarki": "5",
-<<<<<<< HEAD
     "kodedist": "0504010",
     "uom1": "40",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -8903,15 +5384,9 @@
     "satuan": "DUS",
     "isi": "1",
     "hirarki": "6",
-<<<<<<< HEAD
     "kodedist": "0504010",
     "uom1": "40",
     "uom2": "5",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9074,13 +5549,8 @@
     "satuan": "CAR",
     "isi": "40",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503029",
     "uom1": "40",
-=======
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -9088,28 +5558,10 @@
     "kode": "A0000478-1",
     "nama": "TBB25 PVPC - TEH CAP POCI CELUP VANILA 25 PROMO CONTAINER",
     "satuan": "BOS",
-<<<<<<< HEAD
     "isi": "1",
     "hirarki": "2",
     "kodedist": "0503029",
     "uom1": "40",
-=======
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000001-3",
-    "nama": "ETPMG - ES TEH POCI TEH TARIK MANGGA (1 PCS)",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
->>>>>>> main
     "uom2": "1",
     "uom3": "1"
   },
@@ -9119,15 +5571,9 @@
     "satuan": "CAR",
     "isi": "150",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503024",
     "uom1": "150",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9136,15 +5582,9 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503024",
     "uom1": "150",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9153,48 +5593,9 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503024",
     "uom1": "150",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000003-0",
-    "nama": "ETPKS - ES TEH POCI TEH KRAMPUL SELASIH (1 CAR = 15 BOS)",
-    "satuan": "CAR",
-    "isi": "150",
-    "hirarki": "1",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000003-1",
-    "nama": "ETPKS - ES TEH POCI TEH KRAMPUL SELASIH (1 BOS = 10 PCS)",
-    "satuan": "BOS",
-    "isi": "10",
-    "hirarki": "2",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
-    "uom3": "1"
-  },
-  {
-    "kode": "AP000003-3",
-    "nama": "ETPKS - ES TEH POCI TEH KRAMPUL SELASIH (1 PCS)",
-    "satuan": "PCS",
-    "isi": "1",
-    "hirarki": "3",
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9203,15 +5604,9 @@
     "satuan": "CAR",
     "isi": "150",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503025",
     "uom1": "150",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9220,15 +5615,9 @@
     "satuan": "BOS",
     "isi": "10",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503025",
     "uom1": "150",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9237,15 +5626,9 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503025",
     "uom1": "150",
     "uom2": "10",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9254,15 +5637,9 @@
     "satuan": "CAR",
     "isi": "48",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503022",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9271,15 +5648,9 @@
     "satuan": "BOS",
     "isi": "6",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503022",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9288,15 +5659,9 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503022",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9305,15 +5670,9 @@
     "satuan": "CAR",
     "isi": "48",
     "hirarki": "1",
-<<<<<<< HEAD
     "kodedist": "0503023",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9322,15 +5681,9 @@
     "satuan": "BOS",
     "isi": "6",
     "hirarki": "2",
-<<<<<<< HEAD
     "kodedist": "0503023",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
@@ -9339,15 +5692,9 @@
     "satuan": "PCS",
     "isi": "1",
     "hirarki": "3",
-<<<<<<< HEAD
     "kodedist": "0503023",
     "uom1": "48",
     "uom2": "6",
-=======
-    "kodedist": "",
-    "uom1": "1",
-    "uom2": "1",
->>>>>>> main
     "uom3": "1"
   },
   {
