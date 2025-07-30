@@ -2,7 +2,7 @@
 import json
 import pandas as pd
 
-listdf_so1sky = pd.read_html('./inbox/1840017534_sales_order-20250516.xls', skiprows=4, header=0)
+listdf_so1sky = pd.read_html('./inbox/1840017534_sales_order.xls', skiprows=4, header=0)
 df_so1sky = listdf_so1sky[0].ffill()
 df_so1sky["TANGGAL"] = pd.to_datetime(df_so1sky["TANGGAL"])
 print(df_so1sky["TANGGAL"].dtypes)
@@ -178,7 +178,102 @@ for index, row in df_so1sky_merge.iterrows():
 # %%
 df_export = pd.DataFrame.from_records(list_template)
 
-# df_export
+df_export = df_export.groupby(
+    [
+        "Nd6tran",
+        "SalesInvoice",
+        "Attribute",
+        "SalesmanId",
+        "SalesOrderNumber",
+        "SalesOrderDate",
+        "InvoiceNumber",
+        "InvoiceDate",
+        "Term",
+        "SoldToCustomerId",
+        "SentToCustomerId",
+        "InvoicedToCustomerId",
+        "CustomerPo",
+        "SellingType",
+        "DocumentType",
+        "CashPayment",
+        "GiroPayment",
+        "GiroNumber",
+        "GiroBank",
+        "GiroDue",
+        "AdjustmentAmount",        
+        "Tax1",
+        "Tax2",
+        "Tax3",
+        "ProductCode",
+        "ProductVarianCode",
+        "SellingPrice",
+        "LineDiscount1",
+        "LineDiscount2",
+        "LineDiscount3",
+        "LineDiscount4",
+        "LineDiscount5",
+        "CompanyId",
+        "BranchId",
+        "DivisionId",
+        "WarehouseId",
+        "ManualPonumber"
+    ]
+).agg(
+    {
+        "Discount1": "sum",
+        "Discount2": "sum",
+        "Discount3": "sum",
+        "QtySold": "sum", 
+        "QtyFreeGood": "sum"
+    }
+).reset_index()
+
+df_export = df_export.reindex(columns=
+    [
+        "Nd6tran",
+        "SalesInvoice",
+        "Attribute",
+        "SalesmanId",
+        "SalesOrderNumber",
+        "SalesOrderDate",
+        "InvoiceNumber",
+        "InvoiceDate",
+        "Term",
+        "SoldToCustomerId",
+        "SentToCustomerId",
+        "InvoicedToCustomerId",
+        "CustomerPo",
+        "SellingType",
+        "DocumentType",
+        "CashPayment",
+        "GiroPayment",
+        "GiroNumber",
+        "GiroBank",
+        "GiroDue",
+        "AdjustmentAmount",
+        "Discount1",
+        "Discount2",
+        "Discount3",
+        "Tax1",
+        "Tax2",
+        "Tax3",
+        "ProductCode",
+        "ProductVarianCode",
+        "QtySold", 
+        "QtyFreeGood",
+        "SellingPrice",
+        "LineDiscount1",
+        "LineDiscount2",
+        "LineDiscount3",
+        "LineDiscount4",
+        "LineDiscount5",
+        "CompanyId",
+        "BranchId",
+        "DivisionId",
+        "WarehouseId",
+        "ManualPonumber"
+    ]
+)
 
 df_export.to_csv('./outbox/test.txt', sep="|", index=False)
 
