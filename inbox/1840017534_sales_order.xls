@@ -1,0 +1,159 @@
+<table width="100%" border="1" cellpadding="3" cellspacing="0">
+				<tr><td colspan="20">CUSTOMER SALES ORDER</td></tr>
+				<tr><td colspan="20">TANGGAL: 2025-07-28 s/d 2025-07-28</td></tr>
+				<tr><td colspan="20">SALESMAN: </td></tr>
+				<tr><td colspan="20">&nbsp;</td></tr>
+			  <tr>
+				<td>TANGGAL</td>
+				<td>JAM</td>								
+				<td>NOMOR</td>	
+				<td>ORDER ID</td>
+				<td>CUST ID</td>
+				<td>CUSTOMER</td>
+				<td>ALAMAT</td>
+				<td>SALESMAN ID</td>
+				<td>SALESMAN</td>
+				<td>PRODUK ID</td>
+				<td>PRODUK</td>
+				<td>QTY</td>
+				<td>HARGA</td>
+				<td>DISKON 1</td>
+				<td>DISKON 2</td>
+				<td>AMOUNT</td>
+				<td>NO FAKTUR</td>
+				<td>TGL FAKTUR</td>
+				<td>REASON</td>
+				<td>NO FAKTUR 2</td>
+			  </tr>
+				<tr>
+					<td>07/28/2025</td>
+					<td>11:12</td>
+					<td>1</td>
+					<td>18293847</td>
+					<td>SMCP-RMK1564</td>			
+					<td>JACK AREMA RM - GUNTUNG MANGGIS</td>			
+					<td>JL. GUNTUNG MANGGIS</td>
+					<td>SMBM0014</td>
+					<td>HENDRA KURNIAWAN</td>
+					<td>BJTBS220001</td>
+					<td>TBS 220 ML</td>
+					<td align='right'>1</td>
+					<td align='right'>52000</td>
+					<td align='right'>0</td>
+					<td align='right'>0</td>
+					<td align='right'>52000</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>			
+				</tr>
+				<tr>
+					<td></td>
+					<td>11:15</td>
+					<td>2</td>
+					<td>18294016</td>
+					<td>SMCP-BKS1044</td>			
+					<td>BAKSO LAPANGAN TEMBAK- D MALL</td>			
+					<td>D MALL A.YANI KM. 2.5 SEBELAH BAKMI NAGA</td>
+					<td>SMBM0014</td>
+					<td>HENDRA KURNIAWAN</td>
+					<td>BJPAB600052</td>
+					<td>PAB 600 ML K24 SHORT NECK</td>
+					<td align='right'>20</td>
+					<td align='right'>41000</td>
+					<td align='right'>0</td>
+					<td align='right'>0</td>
+					<td align='right'>820000</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>			
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>18294016</td>
+					<td>SMCP-BKS1044</td>			
+					<td>BAKSO LAPANGAN TEMBAK- D MALL</td>			
+					<td>D MALL A.YANI KM. 2.5 SEBELAH BAKMI NAGA</td>
+					<td>SMBM0014</td>
+					<td>HENDRA KURNIAWAN</td>
+					<td>BJPAB600052</td>
+					<td>PAB 600 ML K24 SHORT NECK</td>
+					<td align='right'>2</td>
+					<td align='right'>41000</td>
+					<td align='right'>82000</td>
+					<td align='right'>0</td>
+					<td align='right'>0</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>			
+				</tr>
+				<tr>
+					<td></td>
+					<td>11:19</td>
+					<td>3</td>
+					<td>18294198</td>
+					<td>SMCP-RMK1115</td>			
+					<td>SOLARIA - DUTA MALL</td>			
+					<td>DUTA MALL</td>
+					<td>SMBM0014</td>
+					<td>HENDRA KURNIAWAN</td>
+					<td>BJPAB330065</td>
+					<td>PAB 330 ML K24 SHORT NECK</td>
+					<td align='right'>40</td>
+					<td align='right'>35000</td>
+					<td align='right'>0</td>
+					<td align='right'>0</td>
+					<td align='right'>1400000</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>			
+				</tr>
+				<tr>
+					<td></td>
+					<td>11:20</td>
+					<td>4</td>
+					<td>18294238</td>
+					<td>SMCP-RMK1203</td>			
+					<td>RM. CABE MERAH RESTO - DUTA MALL</td>			
+					<td>JL. AHMAD YANI DUTA MALL BANJARMASIN LANTAI 2 UNIT L2/A7</td>
+					<td>SMBM0014</td>
+					<td>HENDRA KURNIAWAN</td>
+					<td>BJPAB600052</td>
+					<td>PAB 600 ML K24 SHORT NECK</td>
+					<td align='right'>50</td>
+					<td align='right'>41000</td>
+					<td align='right'>0</td>
+					<td align='right'>0</td>
+					<td align='right'>2050000</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>			
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td>18294238</td>
+					<td>SMCP-RMK1203</td>			
+					<td>RM. CABE MERAH RESTO - DUTA MALL</td>			
+					<td>JL. AHMAD YANI DUTA MALL BANJARMASIN LANTAI 2 UNIT L2/A7</td>
+					<td>SMBM0014</td>
+					<td>HENDRA KURNIAWAN</td>
+					<td>BJPAB600052</td>
+					<td>PAB 600 ML K24 SHORT NECK</td>
+					<td align='right'>5</td>
+					<td align='right'>41000</td>
+					<td align='right'>205000</td>
+					<td align='right'>0</td>
+					<td align='right'>0</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>			
+				</tr></table>
