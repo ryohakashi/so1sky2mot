@@ -94,8 +94,8 @@ for index, row in df_so1sky_merge.iterrows():
             "GiroBank": "",
             "GiroDue": "",
             "AdjustmentAmount": 0,
-            "Discount1": row["DISKON 1"],
-            "Discount2": row["DISKON 2"],
+            "Discount1": 0,
+            "Discount2": 0,
             "Discount3": 0,
             "Tax1": 11,
             "Tax2": 0,
@@ -107,8 +107,8 @@ for index, row in df_so1sky_merge.iterrows():
             # "QtySold": (row["QTY"]),
             "QtyFreeGood": 0,
             "SellingPrice": row["HARGA"],
-            "LineDiscount1": 0,
-            "LineDiscount2": 0,
+            "LineDiscount1": row["DISKON 1"],
+            "LineDiscount2": row["DISKON 2"],
             "LineDiscount3": 0,
             "LineDiscount4": 0,
             "LineDiscount5": 0,
@@ -119,6 +119,7 @@ for index, row in df_so1sky_merge.iterrows():
             "ManualPonumber": ""
         }
     else:
+        # freegood        
         dict_item = {
             "Nd6tran": "ND6TRAN",
             "SalesInvoice": "salesinvoice",
@@ -143,8 +144,8 @@ for index, row in df_so1sky_merge.iterrows():
             "GiroBank": "",
             "GiroDue": "",
             "AdjustmentAmount": 0,
-            "Discount1": row["DISKON 1"],
-            "Discount2": row["DISKON 2"],
+            "Discount1": 0,
+            "Discount2": 0,
             "Discount3": 0,
             "Tax1": 11,
             "Tax2": 0,
