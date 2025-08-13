@@ -1510,21 +1510,6 @@
     "uom2": 1,
     "uom3": 1,
     "kemasan": 0
-<<<<<<< HEAD
-=======
-  },
-  {
-    "kode": "BJPAB600015",
-    "nama": "PAB 600 ML - BTL",
-    "satuan": "BTL",
-    "isi": 1,
-    "hirarki": 2,
-    "kodedist": "0713003",
-    "uom1": 24,
-    "uom2": 1,
-    "uom3": 1,
-    "kemasan": 0
->>>>>>> main
   },
   {
     "kode": "BJPAB600052",
@@ -2144,11 +2129,7 @@
     "satuan": "KARTON",
     "isi": 20,
     "hirarki": 1,
-<<<<<<< HEAD
     "kodedist": "0707006",
-=======
-    "kodedist": "",
->>>>>>> main
     "uom1": 20,
     "uom2": 1,
     "uom3": 1,
@@ -2160,11 +2141,7 @@
     "satuan": "PCS",
     "isi": 1,
     "hirarki": 2,
-<<<<<<< HEAD
     "kodedist": "0707006",
-=======
-    "kodedist": "",
->>>>>>> main
     "uom1": 20,
     "uom2": 1,
     "uom3": 1,
