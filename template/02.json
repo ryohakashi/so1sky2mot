@@ -1512,6 +1512,18 @@
     "kemasan": 0
   },
   {
+    "kode": "BJPAB600015",
+    "nama": "PAB 600 ML K24 - BTL",
+    "satuan": "BTL",
+    "isi": 1,
+    "hirarki": 2,
+    "kodedist": "0713003",
+    "uom1": 24,
+    "uom2": 1,
+    "uom3": 1,
+    "kemasan": 0
+  },
+  {
     "kode": "BJPAB600052",
     "nama": "PAB 600 ML K24 SHORT NECK",
     "satuan": "KARTON",
